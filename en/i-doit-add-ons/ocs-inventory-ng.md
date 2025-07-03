@@ -1,3 +1,13 @@
+---
+title: ocs-inventory-ng
+description: 
+published: true
+date: 2025-07-02T15:55:50.054Z
+tags: 
+editor: markdown
+dateCreated: 2025-07-02T15:55:47.094Z
+---
+
 # OCS Inventory NG
 
 !!! info "Note"

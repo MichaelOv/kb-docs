@@ -1,3 +1,13 @@
+---
+title: object-category-viva
+description: 
+published: true
+date: 2025-07-02T16:13:35.773Z
+tags: 
+editor: markdown
+dateCreated: 2025-07-02T16:13:33.747Z
+---
+
 # Object category VIVA
 
 The VIVA add-on brings the VIVA category, which is globally available for all object types. Through it, the user gains a quick overview. The category lists the appropriate VIVA-specific properties. These include ...

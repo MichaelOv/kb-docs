@@ -1,3 +1,13 @@
+---
+title: complex-reports
+description: 
+published: true
+date: 2025-07-02T15:58:12.931Z
+tags: 
+editor: markdown
+dateCreated: 2025-07-02T15:58:10.246Z
+---
+
 # Complex Reports
 
 You can generate a lot of useful reports with the query builder of the report manager. For more complex cases, you can also edit the SQL behind it and in doing so you can utilize MySQL or MariaDB functions, for example, to query time intervals.

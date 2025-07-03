@@ -1,3 +1,13 @@
+---
+title: i-doit-qr-code-printer
+description: 
+published: true
+date: 2025-07-02T15:55:32.436Z
+tags: 
+editor: markdown
+dateCreated: 2025-07-02T15:55:30.124Z
+---
+
 # i-doit QR Code Printer
 
 The [i-doit QR code printer](./i-doit-qr-code-printer.md) allows you to print labels comfortably using your label printer. A configuration is provided for you to ensure that the formats match your requirements. If you scan the QR code with a smartphone or a tablet, for example, then you will be forwarded to the overview page of the labelled [object](../glossary.md).

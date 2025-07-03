@@ -1,3 +1,13 @@
+---
+title: automated-contract-term-extension
+description: 
+published: true
+date: 2025-07-02T15:58:05.706Z
+tags: 
+editor: markdown
+dateCreated: 2025-07-02T15:58:02.767Z
+---
+
 # Automated contract term extension
 
 !!! info "Was last tested for i-doit version 23"

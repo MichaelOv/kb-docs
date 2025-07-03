@@ -1,9 +1,11 @@
 ---
 title: Report Manager
 description: Report Manager
-icon: report-manager
-status:
-lang: en
+published: true
+date: 2025-07-02T15:54:54.857Z
+tags: 
+editor: markdown
+dateCreated: 2025-07-02T15:54:51.813Z
 ---
 
 # Report Manager

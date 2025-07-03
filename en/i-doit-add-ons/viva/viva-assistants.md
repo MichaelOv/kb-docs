@@ -1,3 +1,13 @@
+---
+title: viva-assistants
+description: 
+published: true
+date: 2025-07-02T16:13:56.308Z
+tags: 
+editor: markdown
+dateCreated: 2025-07-02T16:13:53.971Z
+---
+
 # VIVA Assistants
 
 While the chapter on the procedure with VIVA describes a manual way to document all information relevant to IT-Grundschutz, the VIVA add-on includes a large number of wizards to make this way partially automated. The wizards analyze the data in VIVA and in i-doit's CMDB in advance to generate suggestions that the user can subsequently edit and/or adopt. Complex interrelationships within the information network thus become visible. The user thus has the possibility to document faster and more comfortably.

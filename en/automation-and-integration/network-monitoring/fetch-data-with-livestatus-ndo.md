@@ -1,3 +1,13 @@
+---
+title: fetch-data-with-livestatus-ndo
+description: 
+published: true
+date: 2025-07-02T16:09:29.668Z
+tags: 
+editor: markdown
+dateCreated: 2025-07-02T16:09:27.485Z
+---
+
 # Fetch Data with Livestatus / NDOUtils
 
 For a target/actual-comparison between the target documentation in i-doit and the actual status provided by a [Network Monitoring](./index.md) software, a suitable interface can be very helpful. With this interface you can display data from the Network Monitoring in i-doit and evaluate them.

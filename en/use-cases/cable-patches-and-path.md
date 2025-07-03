@@ -1,3 +1,13 @@
+---
+title: cable-patches-and-path
+description: 
+published: true
+date: 2025-07-02T15:58:09.165Z
+tags: 
+editor: markdown
+dateCreated: 2025-07-02T15:58:06.706Z
+---
+
 # Cable patches and paths
 
 With an extensive [IT documentation](../glossary.md), sooner or later, you will have to deal with the question of how to map the cabling. This article offers an introduction and describes how to wire hardware [objects](../basics/structure-of-the-it-documentation.md) to each other.

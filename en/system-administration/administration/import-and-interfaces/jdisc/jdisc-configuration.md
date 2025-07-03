@@ -1,3 +1,13 @@
+---
+title: jdisc-configuration
+description: 
+published: true
+date: 2025-07-02T16:41:18.566Z
+tags: 
+editor: markdown
+dateCreated: 2025-07-02T16:41:16.402Z
+---
+
 # JDisc configuration
 
 You can enter the settings to get access to the JDisc server. → [READMORE](../../../../consolidate-data/jdisc/index.md)

@@ -1,9 +1,11 @@
 ---
 title: Initial Login
 description: Initial Login
-icon:
-status:
-lang: en
+published: true
+date: 2025-07-02T15:53:28.189Z
+tags: 
+editor: markdown
+dateCreated: 2025-07-02T15:53:25.907Z
 ---
 
 # Initial Login

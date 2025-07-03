@@ -1,3 +1,13 @@
+---
+title: category-folders
+description: 
+published: true
+date: 2025-07-02T16:31:19.285Z
+tags: 
+editor: markdown
+dateCreated: 2025-07-02T16:31:17.115Z
+---
+
 # Category folders
 
 The Category Folders feature allows you to create your own category folders and store categories in them for each object type. You can also edit existing category folders and move any category to any folder.

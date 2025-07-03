@@ -1,9 +1,11 @@
 ---
 title: MariaDB database corruption errors
 description: MariaDB database corruption errors and how to solve them
-icon:
-status: new
-lang: en
+published: true
+date: 2025-07-02T16:16:35.262Z
+tags: 
+editor: markdown
+dateCreated: 2025-07-02T16:16:33.038Z
 ---
 
 ## Error messages

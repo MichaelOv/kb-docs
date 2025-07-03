@@ -1,3 +1,13 @@
+---
+title: custom-object-types
+description: 
+published: true
+date: 2025-07-02T15:53:14.033Z
+tags: 
+editor: markdown
+dateCreated: 2025-07-02T15:53:11.542Z
+---
+
 # Custom Object Types
 
 A lot of [object types](../glossary.md) are provided by the standard installation of _i-doit_. However, it is very likely that you want to document [objects](../glossary.md) which are not suited to be assigned to one of the existing object types. For this reason it is possible to create and customize object types.

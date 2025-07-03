@@ -1,3 +1,13 @@
+---
+title: requirements
+description: 
+published: true
+date: 2025-07-02T16:11:43.321Z
+tags: 
+editor: markdown
+dateCreated: 2025-07-02T16:11:41.208Z
+---
+
 # Requirements
 
 idoitcmk is a command-line tool which uses the APIs of both i-doit and Checkmk. Please, meet the following requirements:

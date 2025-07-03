@@ -1,3 +1,13 @@
+---
+title: index
+description: 
+published: true
+date: 2025-07-02T16:14:10.226Z
+tags: 
+editor: markdown
+dateCreated: 2025-07-02T16:14:06.828Z
+---
+
 # i-doit Virtual Eval Appliance
 
 synetics provides a fully functional appliance of i-doit. It can be downloaded as a virtual machine.

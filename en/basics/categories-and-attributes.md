@@ -1,9 +1,11 @@
 ---
 title: Categories and attributes
 description: Categories and attributes
-icon:
-status:
-lang: en
+published: true
+date: 2025-07-02T15:53:04.203Z
+tags: 
+editor: markdown
+dateCreated: 2025-07-02T15:53:01.139Z
 ---
 
 # Categories and attributes

@@ -1,3 +1,13 @@
+---
+title: index
+description: 
+published: true
+date: 2025-07-02T15:52:13.822Z
+tags: 
+editor: markdown
+dateCreated: 2025-07-02T15:52:11.826Z
+---
+
 # Technical user documentation, CMDB and ITSM tool integration using i-doit
 
 -------------------------------------------------------------------------

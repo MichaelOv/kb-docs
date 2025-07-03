@@ -1,3 +1,13 @@
+---
+title: upgrade-virtual-appliance-debian-9
+description: 
+published: true
+date: 2025-07-02T15:52:40.933Z
+tags: 
+editor: markdown
+dateCreated: 2025-07-02T15:52:37.871Z
+---
+
 # Upgrade of i-doit Virtual Eval Appliance to Debian GNU/Linux 9 "Stretch"
 
 Besides the maintenance of i-doit you also have to keep the regular maintenance of the operating system in mind. This article explains the upgrade of [Debian GNU/Linux] in version 8 "Jessie" to version 9 "Stretch". It takes just a few steps and the [i-doit Eval Virtual Appliance](will be up to date.

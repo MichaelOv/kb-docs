@@ -1,3 +1,13 @@
+---
+title: preparation-of-the-viva-installation
+description: 
+published: true
+date: 2025-07-02T16:13:39.791Z
+tags: 
+editor: markdown
+dateCreated: 2025-07-02T16:13:36.858Z
+---
+
 # Preparation of the VIVA installation
 
 Before using the [i-doit add-on VIVA](./../index.md) for the first time, you need to install it.

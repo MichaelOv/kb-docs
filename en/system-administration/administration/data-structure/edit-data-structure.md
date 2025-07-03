@@ -1,3 +1,13 @@
+---
+title: edit-data-structure
+description: 
+published: true
+date: 2025-07-02T16:31:06.031Z
+tags: 
+editor: markdown
+dateCreated: 2025-07-02T16:31:03.867Z
+---
+
 # Edit Data structure
 
 Here you can find configurations to alter the data structure of your tenant.

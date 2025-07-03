@@ -1,3 +1,13 @@
+---
+title: import-inventory-data-into-cmdb
+description: 
+published: true
+date: 2025-07-02T16:11:26.560Z
+tags: 
+editor: markdown
+dateCreated: 2025-07-02T16:11:24.432Z
+---
+
 # Import inventory data into CMDB
 
 You let checkmk monitor all your hosts? You let checkmk collect basic information about your hardware/software? Well, why not share these information with your CMDB? Import or update objects in i-doit by running:

@@ -1,9 +1,11 @@
 ---
 title: JDisc Discovery
 description: Configuration and usage of JDisc Discovery with i-doit
-icon: addons/jdisc
-status:
-lang: en
+published: true
+date: 2025-07-02T16:10:30.222Z
+tags: 
+editor: markdown
+dateCreated: 2025-07-02T16:10:27.651Z
 ---
 
 !!! warning "Important Note"

@@ -1,9 +1,11 @@
 ---
 title: SMTP configuration (e-mail)
 description: SMTP configuration  (e-mail)
-icon: mail-back
-status:
-lang: en
+published: true
+date: 2025-07-02T15:52:43.964Z
+tags: 
+editor: markdown
+dateCreated: 2025-07-02T15:52:41.994Z
 ---
 
 # SMTP configuration (E-Mail)

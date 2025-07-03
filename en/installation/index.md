@@ -1,3 +1,13 @@
+---
+title: index
+description: 
+published: true
+date: 2025-07-02T15:56:16.784Z
+tags: 
+editor: markdown
+dateCreated: 2025-07-02T15:56:14.496Z
+---
+
 # Installation
 
 The [IT-documentation](../glossary.md) should be based on a solid foundation - the same applies to the technical side. Three types of installation are available for i-doit.

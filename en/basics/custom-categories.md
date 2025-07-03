@@ -1,3 +1,13 @@
+---
+title: custom-categories
+description: 
+published: true
+date: 2025-07-02T15:53:07.332Z
+tags: 
+editor: markdown
+dateCreated: 2025-07-02T15:53:05.292Z
+---
+
 # Custom Categories
 
 Besides having standard categories _i-doit_ makes it possible to create (custom) [categories](structure-of-the-it-documentation.md) in order to document additional [attributes](./structure-of-the-it-documentation.md), which are not included in standard categories.

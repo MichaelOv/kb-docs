@@ -1,3 +1,13 @@
+---
+title: object-identification-during-imports
+description: 
+published: true
+date: 2025-07-02T15:54:09.908Z
+tags: 
+editor: markdown
+dateCreated: 2025-07-02T15:54:07.760Z
+---
+
 # Object Identification during Imports
 
 i-doitvides various data imports. Existing data in the [IT documentation](../glossary.md) can be updated with imports instead of generating (often) unnecessary redundancy. In order to achieve this, i-doit tries to identify existing [objects](../basics/structure-of-the-it-documentation.md) by means of various [attributes](../basics/structure-of-the-it-documentation.md).

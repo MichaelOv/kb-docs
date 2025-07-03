@@ -1,3 +1,13 @@
+---
+title: advanced-settings
+description: 
+published: true
+date: 2025-07-02T16:09:54.500Z
+tags: 
+editor: markdown
+dateCreated: 2025-07-02T16:09:52.209Z
+---
+
 # Advanced Settings
 
 Many parameters concerning the [object lists](index.md) can be adapted according to your requirements. This increases clarity and provides the possibility to gain access to desired contents quickly.

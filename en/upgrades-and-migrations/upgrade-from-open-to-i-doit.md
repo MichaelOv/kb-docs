@@ -1,9 +1,11 @@
 ---
 title: Upgrade from i-doit open to i-doit
 description: Upgrade from i-doit open to i-doit
-icon: material/arrow-up-bold-hexagon-outline
-status:
-lang: en
+published: true
+date: 2025-07-02T15:57:57.241Z
+tags: 
+editor: markdown
+dateCreated: 2025-07-02T15:57:54.923Z
 ---
 
 # Upgrade from i-doit open to i-doit

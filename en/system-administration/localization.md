@@ -1,3 +1,13 @@
+---
+title: localization
+description: 
+published: true
+date: 2025-07-02T15:57:15.611Z
+tags: 
+editor: markdown
+dateCreated: 2025-07-02T15:57:12.086Z
+---
+
 # Localization
 
 _Do you speak IT documentation?_ English is and will remain the standard language in the domain of information technology. But as diversity enriches, i-doit supports several languages. Among other things, we will show you how to adjust existing translations in this article.

@@ -1,9 +1,11 @@
 ---
 title: Example of CSV import - Licenses
 description: Example of CSV import - Licenses
-icon:
-status:
-lang: en
+published: true
+date: 2025-07-02T16:10:16.149Z
+tags: 
+editor: markdown
+dateCreated: 2025-07-02T16:10:14.006Z
 ---
 
 !!! warning "Please create a complete backup before making any changes to an interface/import. If the result is not satisfying, it can then be restored"

@@ -1,3 +1,13 @@
+---
+title: index
+description: 
+published: true
+date: 2025-07-02T16:13:06.700Z
+tags: 
+editor: markdown
+dateCreated: 2025-07-02T16:13:04.433Z
+---
+
 # i-diary
 
 [![i-diary](../../assets/images/en/i-doit-add-ons/i-diary/1-i-diary.png)](../../assets/images/en/i-doit-add-ons/i-diary/1-i-diary.png)

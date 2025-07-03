@@ -1,9 +1,11 @@
 ---
 title: Object types
 description: Default Object types
-icon:
-status:
-lang: en
+published: true
+date: 2025-07-02T15:53:41.989Z
+tags: 
+editor: markdown
+dateCreated: 2025-07-02T15:53:40.079Z
 ---
 
 # Object types

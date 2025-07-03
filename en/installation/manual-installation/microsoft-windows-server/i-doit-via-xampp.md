@@ -1,3 +1,13 @@
+---
+title: i-doit-via-xampp
+description: 
+published: true
+date: 2025-07-02T16:30:39.366Z
+tags: 
+editor: markdown
+dateCreated: 2025-07-02T16:30:37.111Z
+---
+
 # i-doit via XAMPP
 
 !!! note ""

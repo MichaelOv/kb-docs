@@ -1,9 +1,11 @@
 ---
 title: Placeholder in documents
 description: Placeholder in documents
-icon:
-status:
-lang: en
+published: true
+date: 2025-07-02T16:12:16.925Z
+tags: 
+editor: markdown
+dateCreated: 2025-07-02T16:12:14.657Z
 ---
 
 # Placeholder in documents

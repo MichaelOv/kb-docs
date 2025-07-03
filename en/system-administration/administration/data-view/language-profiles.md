@@ -1,3 +1,13 @@
+---
+title: language-profiles
+description: 
+published: true
+date: 2025-07-02T16:31:28.886Z
+tags: 
+editor: markdown
+dateCreated: 2025-07-02T16:31:26.710Z
+---
+
 # Language profiles
 
 Using the user-defined translation, you can change the name of the desired fields or add new languages within a few mouse clicks.

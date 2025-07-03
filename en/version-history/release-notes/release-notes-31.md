@@ -1,3 +1,13 @@
+---
+title: release-notes-31
+description: 
+published: true
+date: 2025-07-02T16:19:29.105Z
+tags: 
+editor: markdown
+dateCreated: 2025-07-02T16:19:26.800Z
+---
+
 # Release Notes 31
 
 We’re happy to announce i-doit 31. This version mainly focuses on compatibility and quality. Alongside our usual bug fixes we added an updated file browser to improve the upload experience for files to i-doit. We also reworked the WYSIWYG editors to increase their look and feel as well as the option to directly paste images into your text and upload them to i-doit to prevent them from being stored directly in the database..

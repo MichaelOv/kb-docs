@@ -1,3 +1,13 @@
+---
+title: index
+description: 
+published: true
+date: 2025-07-02T16:14:48.900Z
+tags: 
+editor: markdown
+dateCreated: 2025-07-02T16:14:45.659Z
+---
+
 # Database Model
 
 *   [Category Tables 1.10](./category-tables-1.10.md)

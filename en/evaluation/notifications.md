@@ -1,9 +1,11 @@
 ---
 title: Notifications
 description: Sending notifications
-icon: notifications
-status:
-lang: en
+published: true
+date: 2025-07-02T15:54:46.556Z
+tags: 
+editor: markdown
+dateCreated: 2025-07-02T15:54:44.180Z
 ---
 
 # Notifications

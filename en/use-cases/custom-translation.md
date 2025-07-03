@@ -1,3 +1,13 @@
+---
+title: custom-translation
+description: 
+published: true
+date: 2025-07-02T15:58:16.243Z
+tags: 
+editor: markdown
+dateCreated: 2025-07-02T15:58:13.946Z
+---
+
 # Custom Translation
 
 Using the user-defined translation, you can change the name of the desired fields or add new languages within a few mouse clicks.

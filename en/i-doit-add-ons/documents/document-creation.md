@@ -1,9 +1,11 @@
 ---
 title: Document creation
 description: Document creation
-icon:
-status:
-lang: en
+published: true
+date: 2025-07-02T16:12:06.421Z
+tags: 
+editor: markdown
+dateCreated: 2025-07-02T16:12:04.175Z
 ---
 
 # Document creation

@@ -1,3 +1,13 @@
+---
+title: procedure-with-viva
+description: 
+published: true
+date: 2025-07-02T16:13:43.283Z
+tags: 
+editor: markdown
+dateCreated: 2025-07-02T16:13:40.912Z
+---
+
 # Procedure with VIVA
 
 Manage IT-Grundschutz catalogs

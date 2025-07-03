@@ -1,3 +1,13 @@
+---
+title: release-notes-35
+description: 
+published: true
+date: 2025-07-02T16:19:42.291Z
+tags: 
+editor: markdown
+dateCreated: 2025-07-02T16:19:40.111Z
+---
+
 # Release Notes 35
 <!-- cSpell:disable -->
 We are happy to announce the release of i-doit 35. The main focus for this version are quality improvements. A detailed list of over 115 improvements can be found in our [changelog](../changelogs/changelog-35.md).

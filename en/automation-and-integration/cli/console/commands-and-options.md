@@ -1,9 +1,11 @@
 ---
 title: Commands and options
 description: Commands and options
-icon: material/console
-status:
-lang: en
+published: true
+date: 2025-07-02T16:28:33.789Z
+tags: 
+editor: markdown
+dateCreated: 2025-07-02T16:28:29.709Z
 ---
 
 # Commands and options

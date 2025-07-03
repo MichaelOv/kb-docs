@@ -1,3 +1,13 @@
+---
+title: azure-ad-saml
+description: 
+published: true
+date: 2025-07-02T16:34:00.414Z
+tags: 
+editor: markdown
+dateCreated: 2025-07-02T16:33:57.191Z
+---
+
 # Azure AD (SAML) authentication
 
 In this guide, we describe how to set up single sign-on (SSO) for i-doit using SAML. We will be using Mellon as an authenticator versus Azure AD via SAML ..

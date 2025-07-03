@@ -1,3 +1,13 @@
+---
+title: sync-host-tags
+description: 
+published: true
+date: 2025-07-02T16:11:56.492Z
+tags: 
+editor: markdown
+dateCreated: 2025-07-02T16:11:54.286Z
+---
+
 # Sync host tags
 
 checkmk's host and service checks are often based on its tagging system. You can share tag groups and the tags themselves with i-doit by running:

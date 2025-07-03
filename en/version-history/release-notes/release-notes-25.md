@@ -1,3 +1,13 @@
+---
+title: release-notes-25
+description: 
+published: true
+date: 2025-07-02T16:19:09.342Z
+tags: 
+editor: markdown
+dateCreated: 2025-07-02T16:19:07.129Z
+---
+
 # Release Notes 25
 
 We’re happy to announce i-doit 25. With the latest version we release the next big change to improve i-doit’s interface: A complete rework of the i-doit [Administration](../../system-administration/administration/index.md). The structure will help long term users and new users alike to navigate to the desired configuration with ease. We also added a search function for this menu structure. Furthermore, settings that affect the whole installation (and not only the current tenant) have been moved to the [Admin-Center](../../system-administration/admin-center.md).

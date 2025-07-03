@@ -1,3 +1,13 @@
+---
+title: index
+description: 
+published: true
+date: 2025-07-02T16:11:30.301Z
+tags: 
+editor: markdown
+dateCreated: 2025-07-02T16:11:27.640Z
+---
+
 # Checkmk 2
 
 ## Release Notes Checkmk 2 Version 1.8.6

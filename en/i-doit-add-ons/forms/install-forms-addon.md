@@ -1,9 +1,11 @@
 ---
 title: Installing the Forms add-on
 description: Installing the Forms add-on
-icon:
-status:
-lang: en
+published: true
+date: 2025-07-02T16:12:38.467Z
+tags: 
+editor: markdown
+dateCreated: 2025-07-02T16:12:35.973Z
 ---
 
 ## 1. Install Forms add-on

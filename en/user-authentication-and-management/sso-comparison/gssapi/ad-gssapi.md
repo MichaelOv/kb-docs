@@ -1,3 +1,13 @@
+---
+title: ad-gssapi
+description: 
+published: true
+date: 2025-07-02T16:33:37.088Z
+tags: 
+editor: markdown
+dateCreated: 2025-07-02T16:33:34.884Z
+---
+
 # SSO via Active Directory with GSSAPI
 
 !!! warning "Please create a complete backup before making any changes to an interface/import. If the result is not satisfying, it can then be restored"

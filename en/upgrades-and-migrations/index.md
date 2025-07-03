@@ -1,3 +1,13 @@
+---
+title: index
+description: 
+published: true
+date: 2025-07-02T15:57:29.690Z
+tags: 
+editor: markdown
+dateCreated: 2025-07-02T15:57:27.544Z
+---
+
 # Upgrades and Migrations
 
 Here we focus on specific upgrades and migrations concerning i-doit.

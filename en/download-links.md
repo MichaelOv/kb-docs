@@ -1,9 +1,11 @@
 ---
 title: Download links
 description: Download links for older versions
-icon:
-status:
-lang: en
+published: true
+date: 2025-07-02T15:52:04.095Z
+tags: 
+editor: markdown
+dateCreated: 2025-07-02T15:52:01.239Z
 ---
 
 ## i-doit updates

@@ -1,3 +1,13 @@
+---
+title: geo-coordinates
+description: 
+published: true
+date: 2025-07-02T15:58:25.631Z
+tags: 
+editor: markdown
+dateCreated: 2025-07-02T15:58:23.794Z
+---
+
 # Geo Coordinates
 
 Each [object](../basics/structure-of-the-it-documentation.md) in i-doit can be tagged with geographic coordinates stating longitude and latitude.

@@ -1,9 +1,11 @@
 ---
 title: Task Scheduling & Cronjobs
 description: Task Scheduling & Cronjobs
-#icon: material/
-status:
-lang: en
+published: true
+date: 2025-07-02T15:52:52.489Z
+tags: 
+editor: markdown
+dateCreated: 2025-07-02T15:52:50.198Z
 ---
 
 ## Windows Task Scheduler

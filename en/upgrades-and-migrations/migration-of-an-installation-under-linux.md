@@ -1,9 +1,11 @@
 ---
 title: Migration of an Installation under GNU/Linux
 description: Migration of an Installation under GNU/Linux
-icon: fontawesome/brands/linux
-status:
-lang: en
+published: true
+date: 2025-07-02T15:57:41.850Z
+tags: 
+editor: markdown
+dateCreated: 2025-07-02T15:57:38.716Z
 ---
 
 # Migration of an Installation under GNU/Linux

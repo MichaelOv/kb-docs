@@ -1,9 +1,11 @@
 ---
 title: Ubuntu 22.04 GNU/Linux
 description: i-doit installation auf Ubuntu 22.04
-icon: material/ubuntu
-#status: new
-lang: de
+published: true
+date: 2025-07-02T16:30:53.444Z
+tags: 
+editor: markdown
+dateCreated: 2025-07-02T16:30:50.962Z
 ---
 
 In this article we explain in just a few steps which packages need to be installed and configured.

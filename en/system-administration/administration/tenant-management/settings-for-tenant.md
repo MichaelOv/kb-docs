@@ -1,9 +1,11 @@
 ---
 title: Settings for [Tenant name]
 description: Settings for [Tenant name]
-icon:
-status:
-lang: en
+published: true
+date: 2025-07-02T16:32:24.034Z
+tags: 
+editor: markdown
+dateCreated: 2025-07-02T16:32:21.579Z
 ---
 
 # Settings for [Tenant name]

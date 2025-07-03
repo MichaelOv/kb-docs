@@ -1,3 +1,13 @@
+---
+title: mysql-mariadb-does-not-start
+description: 
+published: true
+date: 2025-07-02T16:16:39.193Z
+tags: 
+editor: markdown
+dateCreated: 2025-07-02T16:16:36.360Z
+---
+
 # MySQL/MariaDB Does Not Start After Changing innodb_log_file_size
 
 Problem

@@ -1,3 +1,13 @@
+---
+title: index
+description: 
+published: true
+date: 2025-07-02T15:58:28.529Z
+tags: 
+editor: markdown
+dateCreated: 2025-07-02T15:58:26.355Z
+---
+
 # Use Cases
 
 In this section, you will find information on the advanced use of _i-doit_: For one thing, to refine your [IT documentation](../glossary.md) and secondly, to even better support the processes in your IT service management.

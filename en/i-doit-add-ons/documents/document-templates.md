@@ -1,9 +1,11 @@
 ---
 title: Document templates
 description: Document templates
-icon:
-status:
-lang: en
+published: true
+date: 2025-07-02T16:12:09.910Z
+tags: 
+editor: markdown
+dateCreated: 2025-07-02T16:12:07.515Z
 ---
 
 # Document templates

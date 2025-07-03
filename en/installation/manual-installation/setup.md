@@ -1,9 +1,11 @@
 ---
 title: i-doit Setup
 description: Setup
-icon: material/cog
-status:
-lang: en
+published: true
+date: 2025-07-02T16:14:16.991Z
+tags: 
+editor: markdown
+dateCreated: 2025-07-02T16:14:14.644Z
 ---
 
 Once the necessary preparations are made - for example the [configuration of the underlying operation system](../manual-installation/index.md) - you can begin the setup of i-doit.

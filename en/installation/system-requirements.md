@@ -1,3 +1,13 @@
+---
+title: system-requirements
+description: 
+published: true
+date: 2025-07-02T15:56:22.513Z
+tags: 
+editor: markdown
+dateCreated: 2025-07-02T15:56:17.800Z
+---
+
 # System requirements
 
 In order to guarantee the operation of all functionalities of i-doit, some requirements must be met by the underlying system.

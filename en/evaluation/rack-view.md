@@ -1,3 +1,13 @@
+---
+title: rack-view
+description: 
+published: true
+date: 2025-07-02T15:54:50.780Z
+tags: 
+editor: markdown
+dateCreated: 2025-07-02T15:54:47.647Z
+---
+
 # Rack View
 
 i-doitvides a visualization for 19" racks with which you can display all built-in components clearly. Statistics about free height units, maximum energy requirements and free network ports in switches and patch panels provide support with capacity planning.

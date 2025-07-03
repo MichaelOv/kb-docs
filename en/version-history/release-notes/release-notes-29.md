@@ -1,3 +1,13 @@
+---
+title: release-notes-29
+description: 
+published: true
+date: 2025-07-02T16:19:22.512Z
+tags: 
+editor: markdown
+dateCreated: 2025-07-02T16:19:20.488Z
+---
+
 # Release Notes 29
 
 We're happy to announce i-doit 29. This version will get a lot of tweaks and improvements under the hood.

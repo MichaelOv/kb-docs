@@ -1,3 +1,13 @@
+---
+title: object-lock
+description: 
+published: true
+date: 2025-07-02T15:54:30.122Z
+tags: 
+editor: markdown
+dateCreated: 2025-07-02T15:54:27.887Z
+---
+
 # Object Lock
 
 Collaborating on the IT documentation also has its pitfalls. Therefore i-doitvides a function to prevent that users who make changes overwrite changes which were made by other users. With the object lock function a specific user gets exclusive writing permissions. All other users only have reading permissions while the lock is active.

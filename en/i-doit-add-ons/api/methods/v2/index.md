@@ -1,9 +1,11 @@
 ---
 title: API v2 endpoints
 description: API v2 endpoints
-#icon: material/api
-status: updated
-lang: en
+published: true
+date: 2025-07-02T16:41:01.717Z
+tags: 
+editor: markdown
+dateCreated: 2025-07-02T16:40:58.046Z
 ---
 
 !!! warning "Please create a complete backup before making any changes to an interface/import. If the result is not satisfying, it can then be restored"

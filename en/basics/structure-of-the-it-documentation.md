@@ -1,3 +1,13 @@
+---
+title: structure-of-the-it-documentation
+description: 
+published: true
+date: 2025-07-02T15:53:44.992Z
+tags: 
+editor: markdown
+dateCreated: 2025-07-02T15:53:43.084Z
+---
+
 # Structure of the IT Documentation
 
 The topic of this article is how i-doit structures the [IT documentation](../glossary.md). Here we focus especially on the vocabulary which is used in i-doit, how these terms are related to each other and how this is represented in the Web GUI.

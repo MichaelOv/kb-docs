@@ -1,3 +1,13 @@
+---
+title: relocate-ci
+description: 
+published: true
+date: 2025-07-02T15:55:53.453Z
+tags: 
+editor: markdown
+dateCreated: 2025-07-02T15:55:51.065Z
+---
+
 # Relocate-CI
 
 The add-on **Relocate-CI** allows for easy documentation of location changes of IT components. The focus is on classic workplace components such as desktop PCs, telephones or monitors. Supported are also logical groupings by the [object type](../basics/structure-of-the-it-documentation.md) Workplace.

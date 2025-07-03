@@ -1,3 +1,13 @@
+---
+title: faq
+description: 
+published: true
+date: 2025-07-02T16:11:12.608Z
+tags: 
+editor: markdown
+dateCreated: 2025-07-02T16:11:10.301Z
+---
+
 # Frequently asked questions (FAQ)
 
 We have collected some of the most asked questions about idoitcmk.

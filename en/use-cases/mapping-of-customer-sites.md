@@ -1,3 +1,13 @@
+---
+title: mapping-of-customer-sites
+description: 
+published: true
+date: 2025-07-02T15:58:45.156Z
+tags: 
+editor: markdown
+dateCreated: 2025-07-02T15:58:42.793Z
+---
+
 # Mapping of Customer Sites
 
 Customers often have several locations which shall be represented in a hierarchy and individually assigned to IT components.

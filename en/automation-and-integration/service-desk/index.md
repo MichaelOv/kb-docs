@@ -1,3 +1,13 @@
+---
+title: index
+description: 
+published: true
+date: 2025-07-02T16:09:36.142Z
+tags: 
+editor: markdown
+dateCreated: 2025-07-02T16:09:33.949Z
+---
+
 # Service Desk
 
 The service desk is a key interface to the customer in many organizations. If the customer has a question about a product, he submits a request to the support team. In connection with ITIL you also speak of "incidents", with reference to software development questions you rather say "issues". Usually requests are made per e-mail or by phone call and are organized in tickets. There is a multitude of different (web) applications to support a service desk. These applications often access additional resources (customer databases etc.) to examine and process inquiries comprehensively and efficiently. An important resource is the [IT documentation](../../glossary.md): If a colleague from a specialized division reports a defective printer to the IT department, the IT documentation supplies helpful information about the model, location, IP address, remote access and many other things.

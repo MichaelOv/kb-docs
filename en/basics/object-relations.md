@@ -1,9 +1,11 @@
 ---
 title: Object Relations
 description: Vordefinierte Objekttypen
-icon: relations
-status:
-lang: en
+published: true
+date: 2025-07-02T15:53:39.050Z
+tags: 
+editor: markdown
+dateCreated: 2025-07-02T15:53:36.979Z
 ---
 
 # Object Relations

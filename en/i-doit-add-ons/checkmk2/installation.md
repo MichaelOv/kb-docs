@@ -1,3 +1,13 @@
+---
+title: installation
+description: 
+published: true
+date: 2025-07-02T16:11:33.572Z
+tags: 
+editor: markdown
+dateCreated: 2025-07-02T16:11:31.442Z
+---
+
 # Installation
 
 After you’ve met the [requirements](./requirements.md) download the latest stable version of the i-doit add-on from the [i-doit customer portal](https://center.i-doit.com/).

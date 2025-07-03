@@ -1,9 +1,11 @@
 ---
 title: Red Hat Enterprise Linux 9.5
 description: i-doit installation auf RHEL 9.5
-icon: material/redhat
-status:
-lang: en
+published: true
+date: 2025-07-02T16:30:46.496Z
+tags: 
+editor: markdown
+dateCreated: 2025-07-02T16:30:44.172Z
 ---
 
 !!! note "Tested with i-doit **34** and RHEL 9.5"

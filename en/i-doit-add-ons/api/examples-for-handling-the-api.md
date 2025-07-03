@@ -1,3 +1,13 @@
+---
+title: examples-for-handling-the-api
+description: 
+published: true
+date: 2025-07-02T16:10:57.963Z
+tags: 
+editor: markdown
+dateCreated: 2025-07-02T16:10:53.141Z
+---
+
 # Examples for Handling the API
 
 To facilitate handling of the application [Application Programming Interfaces (API)](../../system-administration/administration/import-and-interfaces/index.md) of i-doit, we put together a few typical examples.

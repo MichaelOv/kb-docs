@@ -1,3 +1,13 @@
+---
+title: index
+description: 
+published: true
+date: 2025-07-02T16:32:02.608Z
+tags: 
+editor: markdown
+dateCreated: 2025-07-02T16:32:00.441Z
+---
+
 # Predefined content
 
 ## The Predefined content is divided into the following sub-sections

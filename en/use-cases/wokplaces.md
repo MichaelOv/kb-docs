@@ -1,3 +1,13 @@
+---
+title: wokplaces
+description: 
+published: true
+date: 2025-07-02T15:58:59.542Z
+tags: 
+editor: markdown
+dateCreated: 2025-07-02T15:58:57.348Z
+---
+
 # Workplaces
 
 Which IT components are available for which staff member and where can I find them? To ensure that you always have a good overview with regard to this question, you can document IT workplaces in i-doit.

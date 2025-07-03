@@ -1,3 +1,13 @@
+---
+title: ldap-via-tls
+description: 
+published: true
+date: 2025-07-02T16:16:23.984Z
+tags: 
+editor: markdown
+dateCreated: 2025-07-02T16:16:21.722Z
+---
+
 # LDAP via TLS
 
 Some users unfortunately have problems with LDAP connection via TLS so we share the previous solutions here.  

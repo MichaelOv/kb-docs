@@ -1,3 +1,13 @@
+---
+title: glossary
+description: 
+published: true
+date: 2025-07-02T15:52:10.719Z
+tags: 
+editor: markdown
+dateCreated: 2025-07-02T15:52:08.349Z
+---
+
 # IT speaks it's own language. This glossary is supposed to help to know what the vocabulary in i-doit means
 
 | <a name="General"></a> ==General== Category== | The "General" category belongs to those categories which are a fixed part of all objects. Because of this it cannot be unselected per object type. Important attributes are stored in these categories like the object title, SYS-ID, CMDB status and condition. |

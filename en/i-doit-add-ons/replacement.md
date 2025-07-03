@@ -1,9 +1,11 @@
 ---
 title: Replacement Add-on
 description: Replacement Add-on
-icon: addons/replacement
-status:
-lang: en
+published: true
+date: 2025-07-02T15:55:56.883Z
+tags: 
+editor: markdown
+dateCreated: 2025-07-02T15:55:54.492Z
 ---
 
 A new switch is put into operation but you want to maintain all the connections? Use the **Replacement** [add-on](./index.md) so that you don't have to document all the connections anew. This add-on allows swapping of [objects](../basics/structure-of-the-it-documentation.md) with configurable adoption of existing connections.

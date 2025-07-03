@@ -1,7 +1,13 @@
 ---
-search:
-  exclude: true
+title: changelog-30
+description: 
+published: true
+date: 2025-07-02T16:17:56.061Z
+tags: 
+editor: markdown
+dateCreated: 2025-07-02T16:17:53.767Z
 ---
+
 # Changelog 30
 <!-- cSpell:disable -->
 <!-- markdownlint-disable MD052 -->

@@ -1,9 +1,11 @@
 ---
 title: Debian 11 GNU/Linux
 description: i-doit installation on Debian 11
-icon: material/debian
-#status: updated
-lang: en
+published: true
+date: 2025-07-02T15:52:25.956Z
+tags: 
+editor: markdown
+dateCreated: 2025-07-02T15:52:22.818Z
 ---
 
 In this article we explain in just a few steps which packages need to be installed and configured. We use a environment without **desktop** .

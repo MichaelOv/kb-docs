@@ -1,3 +1,13 @@
+---
+title: manage-password
+description: 
+published: true
+date: 2025-07-02T15:58:41.766Z
+tags: 
+editor: markdown
+dateCreated: 2025-07-02T15:58:39.395Z
+---
+
 # Manage Passwords
 
 Every day a system administrator handles dozens of passwords. It is a big challenge to keep all those passwords in mind. i-doitvides a simple password management which keeps your head clear for essential tasks and helps you to find the required access data much faster.

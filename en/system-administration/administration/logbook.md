@@ -1,3 +1,13 @@
+---
+title: logbook
+description: 
+published: true
+date: 2025-07-02T16:15:49.589Z
+tags: 
+editor: markdown
+dateCreated: 2025-07-02T16:15:47.283Z
+---
+
 # Logbook
 
 In the logbook view you can filter entries according to several parameters. If possible, an entry contains the exact changes. (Which values were changed and how?) → [READMORE](../../basics/logbook.md)

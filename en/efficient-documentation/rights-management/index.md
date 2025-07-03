@@ -1,9 +1,11 @@
 ---
 title: Rights Management
 description: Rights Management
-icon: rights-management
-status:
-lang: en
+published: true
+date: 2025-07-02T16:10:38.260Z
+tags: 
+editor: markdown
+dateCreated: 2025-07-02T16:10:35.281Z
 ---
 
 # Rights Management

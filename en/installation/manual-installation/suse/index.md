@@ -1,9 +1,11 @@
 ---
 title: SUSE Linux Enterprise Server 15 SP6
 description: SUSE Linux Enterprise Server 15 SP6
-icon: simple/suse
-status:
-lang: en
+published: true
+date: 2025-07-02T16:30:49.812Z
+tags: 
+editor: markdown
+dateCreated: 2025-07-02T16:30:47.514Z
 ---
 
 !!! note "Tested with i-doit **32**"

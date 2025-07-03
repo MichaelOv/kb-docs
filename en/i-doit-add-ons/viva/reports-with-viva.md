@@ -1,3 +1,13 @@
+---
+title: reports-with-viva
+description: 
+published: true
+date: 2025-07-02T16:13:46.509Z
+tags: 
+editor: markdown
+dateCreated: 2025-07-02T16:13:44.371Z
+---
+
 # Reports with VIVA
 
 To ensure continuous quality assurance, the VIVA add-on supports the user with a series of reports (also called "reports"). These are primarily suitable for visualizing missing or insufficient information during the actual documentation. The reports accompany the user through the entire documentation process.

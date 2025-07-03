@@ -1,3 +1,13 @@
+---
+title: cronjob-setup
+description: 
+published: true
+date: 2025-07-02T15:56:36.612Z
+tags: 
+editor: markdown
+dateCreated: 2025-07-02T15:56:33.285Z
+---
+
 # Cronjobs Setup
 
 Many tasks in i-doit can be automated with help of the CLI tool [controller](../automation-and-integration/cli/index.md). We use it to maintain the IT documentation on a regular basis.

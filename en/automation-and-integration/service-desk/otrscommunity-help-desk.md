@@ -1,3 +1,13 @@
+---
+title: otrscommunity-help-desk
+description: 
+published: true
+date: 2025-07-02T16:09:39.443Z
+tags: 
+editor: markdown
+dateCreated: 2025-07-02T16:09:37.248Z
+---
+
 # ((OTRS)) Community Edition Help Desk
 
 [((OTRS)) Community Edition](https://otrscommunityedition.com/) is a web application for setting up and operating a service desk. This application and i-doit are able to exchange data via ((OTRS)) Community Edition modules. By this means, ((OTRS)) Community Edition tickets with objects from i-doit can be linked with each other.

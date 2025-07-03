@@ -1,3 +1,13 @@
+---
+title: list-editing
+description: 
+published: true
+date: 2025-07-02T15:54:23.518Z
+tags: 
+editor: markdown
+dateCreated: 2025-07-02T15:54:21.154Z
+---
+
 # List Editing
 
 The list editing function enables simultaneous and easy editing of multiple [objects](../glossary.md). Editing is carried out per [category](../glossary.md).

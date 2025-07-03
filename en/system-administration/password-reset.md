@@ -1,9 +1,11 @@
 ---
 title: Password reset
 description: Password reset
-icon:
-status: new
-lang: en
+published: true
+date: 2025-07-02T15:57:23.278Z
+tags: 
+editor: markdown
+dateCreated: 2025-07-02T15:57:20.896Z
 ---
 
 # Password reset

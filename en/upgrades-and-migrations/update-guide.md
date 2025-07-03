@@ -1,9 +1,11 @@
 ---
 title: Update Guide from i-doit 1.7.4 to 34
 description: i-doit update guide
-icon: fontawesome/brands/linux
-status:
-lang: en
+published: true
+date: 2025-07-02T15:57:46.707Z
+tags: 
+editor: markdown
+dateCreated: 2025-07-02T15:57:42.877Z
 ---
 
 ## Important information before you start

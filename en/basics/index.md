@@ -1,3 +1,13 @@
+---
+title: index
+description: 
+published: true
+date: 2025-07-02T15:53:24.874Z
+tags: 
+editor: markdown
+dateCreated: 2025-07-02T15:53:22.803Z
+---
+
 # Basics
 
 The [know-how](../introduction/index.md) is there and i-doit is [installed](../installation/index.md)? Excellent! It's time for the “basics” of how i-doit functions. This way please:

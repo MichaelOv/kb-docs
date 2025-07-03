@@ -1,3 +1,13 @@
+---
+title: release-notes-32
+description: 
+published: true
+date: 2025-07-02T16:19:32.105Z
+tags: 
+editor: markdown
+dateCreated: 2025-07-02T16:19:30.302Z
+---
+
 # Release Notes 32
 
 We’re happy to announce i-doit 32, a version which will continue our efforts of improving quality which also includes some preemptive security fixes. This is why we highly recommend updating to the latest version. A detailed list of over 75 fixes and changes can be found in our [changelog](../changelogs/changelog-32.md).

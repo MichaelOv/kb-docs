@@ -1,3 +1,13 @@
+---
+title: backup-script-for-data-and-files
+description: 
+published: true
+date: 2025-07-02T16:14:24.646Z
+tags: 
+editor: markdown
+dateCreated: 2025-07-02T16:14:21.491Z
+---
+
 # Backup Script for Data and Files
 
 The following backup script serves as an **example** of how a simple data backup can be arranged. It does not replace a professional solution!

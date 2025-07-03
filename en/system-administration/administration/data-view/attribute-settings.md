@@ -1,3 +1,13 @@
+---
+title: attribute-settings
+description: 
+published: true
+date: 2025-07-02T16:31:16.007Z
+tags: 
+editor: markdown
+dateCreated: 2025-07-02T16:31:13.727Z
+---
+
 # Attribute settings
 
 The attribute settings can be found in the [Data-view](../index.md).

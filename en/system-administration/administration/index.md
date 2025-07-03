@@ -1,3 +1,13 @@
+---
+title: index
+description: 
+published: true
+date: 2025-07-02T16:15:46.136Z
+tags: 
+editor: markdown
+dateCreated: 2025-07-02T16:15:43.875Z
+---
+
 # Administration
 
 If you want to take advantage of each and every subtlety a perfect [IT documentation](../../glossary.md) can offer, then you will need to deal with the administration of _i-doit_ in greater detail. Most administrative actions can be managed via the web GUI.

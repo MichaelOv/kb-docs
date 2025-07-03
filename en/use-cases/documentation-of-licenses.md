@@ -1,9 +1,11 @@
 ---
 title: Documentation of licenses
 description: Documentation of licenses
-icon:
-status: updated
-lang: en
+published: true
+date: 2025-07-02T15:58:22.711Z
+tags: 
+editor: markdown
+dateCreated: 2025-07-02T15:58:20.458Z
 ---
 
 The documentation of software licenses is important for all client and server systems. For IT administrators, an overview of existing licenses is essential to ensure the legally compliant licensing of all systems in use. Licenses that are used more than once should be identified quickly and possible reallocations made easily.

@@ -1,3 +1,13 @@
+---
+title: web-gui
+description: 
+published: true
+date: 2025-07-02T15:53:52.512Z
+tags: 
+editor: markdown
+dateCreated: 2025-07-02T15:53:50.125Z
+---
+
 # Web GUI
 
 The i-doit GUI is a WEB application that can be used with the respective [supported browser](../installation/system-requirements.md). This Knowledge Base article describes the various features and functions of the Web GUI.

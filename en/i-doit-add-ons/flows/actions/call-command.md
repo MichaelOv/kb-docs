@@ -1,9 +1,11 @@
 ---
 title: Call command
 description: Flows call command
-icon:
-status:
-lang: en
+published: true
+date: 2025-07-02T16:30:31.918Z
+tags: 
+editor: markdown
+dateCreated: 2025-07-02T16:30:29.816Z
 ---
 
 The following [console commands](../../../automation-and-integration/cli/console/index.md) are available in the Add-on. These function can be used instead of a Cronjob.

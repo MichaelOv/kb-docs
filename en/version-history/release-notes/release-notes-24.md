@@ -1,3 +1,13 @@
+---
+title: release-notes-24
+description: 
+published: true
+date: 2025-07-02T16:19:06.141Z
+tags: 
+editor: markdown
+dateCreated: 2025-07-02T16:19:03.821Z
+---
+
 # Release Notes 24
 
 We're happy to announce i-doit 24. As always, we will provide you with bugfixes together with helpful features for a better software experience. We encourage you to [update](../../maintenance-and-operation/update.md) to this release as soon as possible to benefit from all these contents.

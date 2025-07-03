@@ -1,3 +1,13 @@
+---
+title: release-notes-23
+description: 
+published: true
+date: 2025-07-02T16:19:02.706Z
+tags: 
+editor: markdown
+dateCreated: 2025-07-02T16:19:00.541Z
+---
+
 We’re happy to announce i-doit 23. As usual, we prepared a bunch of bugfixes to improve the experience when using i-doit and create your documentation. Additionally, new features are added alongside. We encourage you to update to this release as soon as possible.
 
 ## Highlights in this release

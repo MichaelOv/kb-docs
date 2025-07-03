@@ -1,3 +1,13 @@
+---
+title: h-inventory
+description: 
+published: true
+date: 2025-07-02T16:31:32.461Z
+tags: 
+editor: markdown
+dateCreated: 2025-07-02T16:31:30.098Z
+---
+
 # H-inventory
 
 Here you can activate the object matching profile. → [READMORE](../../../consolidate-data/h-inventory.md)

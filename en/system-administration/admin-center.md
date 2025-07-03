@@ -1,9 +1,11 @@
 ---
 title: Admin-Center
 description: Admin-Center
-icon: admin-center
-status:
-lang: en
+published: true
+date: 2025-07-02T15:57:04.492Z
+tags: 
+editor: markdown
+dateCreated: 2025-07-02T15:57:01.826Z
 ---
 
 # Admin-Center

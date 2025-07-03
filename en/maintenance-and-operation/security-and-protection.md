@@ -1,9 +1,11 @@
 ---
 title: Security and Protection
 description: Security and Protection
-icon: material/security
-status:
-lang: en
+published: true
+date: 2025-07-02T15:56:51.012Z
+tags: 
+editor: markdown
+dateCreated: 2025-07-02T15:56:47.859Z
 ---
 
 # Security and Protection

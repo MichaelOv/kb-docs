@@ -1,3 +1,13 @@
+---
+title: determine-the-host
+description: 
+published: true
+date: 2025-07-02T16:13:03.336Z
+tags: 
+editor: markdown
+dateCreated: 2025-07-02T16:13:00.965Z
+---
+
 # i-diary: Determine the host
 
 There are three ways to select a host:

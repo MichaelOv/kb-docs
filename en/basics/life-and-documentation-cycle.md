@@ -1,3 +1,13 @@
+---
+title: life-and-documentation-cycle
+description: 
+published: true
+date: 2025-07-02T15:53:32.490Z
+tags: 
+editor: markdown
+dateCreated: 2025-07-02T15:53:29.320Z
+---
+
 # Life and Documentation Cycle
 
 IT components come and go. You plan, purchase and operate them and take them out of service eventually. Bingo: This article is about the lifecycle management. It plays an important role in the [IT documentation](../glossary.md), since it can be used to track the state that a component has or should have. Furthermore, it should be possible to archive or delete the [IT documentation](../glossary.md) itself.

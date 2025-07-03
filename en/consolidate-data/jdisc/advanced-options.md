@@ -1,9 +1,11 @@
 ---
 title: Advanced Options for JDisc Import Profiles
 description: Configuration and usage of JDisc Discovery with i-doit
-icon:
-status:
-lang: en
+published: true
+date: 2025-07-02T16:10:26.527Z
+tags: 
+editor: markdown
+dateCreated: 2025-07-02T16:10:24.123Z
 ---
 
 # Advanced Options for JDisc Import Profiles

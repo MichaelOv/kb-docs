@@ -1,3 +1,13 @@
+---
+title: switch-stacking
+description: 
+published: true
+date: 2025-07-02T15:58:48.062Z
+tags: 
+editor: markdown
+dateCreated: 2025-07-02T15:58:46.240Z
+---
+
 # Switch Stacking
 
 With the **Stacking** [object type](../glossary.md) you can define a stack group of several members which exchange information. Although you can use stacking for different object types, the original idea for this object type and the associated **Stack member** [category](../glossary.md) is based on Switch Stacking. From version 1.7 the object type can be found under the [object type group](../glossary.md) **Other**.

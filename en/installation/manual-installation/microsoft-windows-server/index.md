@@ -1,9 +1,11 @@
 ---
 title: Microsoft Windows Server
 description: Microsoft Windows Server
-icon: material/microsoft-windows
-status:
-lang: en
+published: true
+date: 2025-07-02T16:30:42.914Z
+tags: 
+editor: markdown
+dateCreated: 2025-07-02T16:30:40.475Z
 ---
 
 # Microsoft Windows Server

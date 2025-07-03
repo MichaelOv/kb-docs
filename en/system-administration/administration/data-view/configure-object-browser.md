@@ -1,3 +1,13 @@
+---
+title: configure-object-browser
+description: 
+published: true
+date: 2025-07-02T16:31:22.692Z
+tags: 
+editor: markdown
+dateCreated: 2025-07-02T16:31:20.449Z
+---
+
 # Configure object browser
 
 Here you can configure the object browser by adding the attributes that you want to see. For that you need to navigate to the category/attribute that you want to configure the object browser for.

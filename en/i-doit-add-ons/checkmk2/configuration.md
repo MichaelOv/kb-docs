@@ -1,3 +1,13 @@
+---
+title: configuration
+description: 
+published: true
+date: 2025-07-02T16:11:09.169Z
+tags: 
+editor: markdown
+dateCreated: 2025-07-02T16:11:06.312Z
+---
+
 # Configuration
 
 This application is highly-customizable via configuration files and runtime settings.

@@ -1,9 +1,11 @@
 ---
 title: Console
 description: Console
-icon:
-status:
-lang: en
+published: true
+date: 2025-07-02T16:28:37.718Z
+tags: 
+editor: markdown
+dateCreated: 2025-07-02T16:28:34.728Z
 ---
 
 # Console

@@ -1,3 +1,13 @@
+---
+title: adfs-saml
+description: 
+published: true
+date: 2025-07-02T16:33:55.990Z
+tags: 
+editor: markdown
+dateCreated: 2025-07-02T16:33:52.884Z
+---
+
 # ADFS (Active Directory) (SAML and Mellon)
 
 In this tutorial, we describe how to set up single sign-on (SSO) for i-doit using SAML. In this example, we use Mellon as an authenticator against LDAP-AD-FS.

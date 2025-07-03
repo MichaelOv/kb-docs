@@ -1,3 +1,13 @@
+---
+title: logbook
+description: 
+published: true
+date: 2025-07-02T15:53:35.884Z
+tags: 
+editor: markdown
+dateCreated: 2025-07-02T15:53:33.498Z
+---
+
 # Logbook
 
 Each change to the [IT documentation](../glossary.md) is noted in the logbook by i-doit. This way it is easy to keep track of the [lifecycle of the IT documentation](./life-and-documentation-cycle.md).

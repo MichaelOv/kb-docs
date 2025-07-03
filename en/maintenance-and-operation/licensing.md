@@ -1,10 +1,11 @@
 ---
 title: Licensing
 description: i-doit licensing
-icon: license
-status: updated
-lang: en
-usedBy: sfm + eval-addon
+published: true
+date: 2025-07-02T15:56:43.363Z
+tags: 
+editor: markdown
+dateCreated: 2025-07-02T15:56:40.869Z
 ---
 
 The licensing of i-doit and add-ons takes place via a License token. The License token is sent by e-mail. If you can no longer find it, see [Find or reset the License token](../system-administration/reset-token.md)

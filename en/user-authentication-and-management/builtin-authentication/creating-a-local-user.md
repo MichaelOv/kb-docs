@@ -1,3 +1,13 @@
+---
+title: creating-a-local-user
+description: 
+published: true
+date: 2025-07-02T16:16:57.274Z
+tags: 
+editor: markdown
+dateCreated: 2025-07-02T16:16:54.203Z
+---
+
 # Creating a local user
 
 i-doit already provides some local users with the default installation which you can use for the [initial login](../../basics/initial-login.md). This article describes how to create an additional local user.

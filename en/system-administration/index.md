@@ -1,3 +1,13 @@
+---
+title: index
+description: 
+published: true
+date: 2025-07-02T15:57:11.027Z
+tags: 
+editor: markdown
+dateCreated: 2025-07-02T15:57:08.775Z
+---
+
 # System Administration
 
 What can you do to fine tune i-doit so that you can benefit fully from a maximum use of every detail? What is the best approach to solving a problem? We will cover these areas in the following sections.

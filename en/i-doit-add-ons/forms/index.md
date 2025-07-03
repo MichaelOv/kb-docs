@@ -1,9 +1,11 @@
 ---
 title: Forms
 description: Forms installation
-icon:
-status: updated
-lang: en
+published: true
+date: 2025-07-02T16:12:34.850Z
+tags: 
+editor: markdown
+dateCreated: 2025-07-02T16:12:32.483Z
 ---
 
 # Forms

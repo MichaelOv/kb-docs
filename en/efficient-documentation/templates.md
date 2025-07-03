@@ -1,9 +1,11 @@
 ---
 title: Templates
 description: Use of templates
-icon:
-status:
-lang: en
+published: true
+date: 2025-07-02T15:54:36.978Z
+tags: 
+editor: markdown
+dateCreated: 2025-07-02T15:54:34.709Z
 ---
 
 i-doit allows you to create objects that can serve as templates for the creation of new [objects](../basics/structure-of-the-it-documentation.md). You can create a great amount of objects with identical [attributes](../basics/structure-of-the-it-documentation.md), for example servers using the same hardware, in a simplified procedure.

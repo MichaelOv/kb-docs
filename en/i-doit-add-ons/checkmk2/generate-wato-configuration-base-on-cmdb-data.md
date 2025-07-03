@@ -1,3 +1,13 @@
+---
+title: generate-wato-configuration-base-on-cmdb-data
+description: 
+published: true
+date: 2025-07-02T16:11:20.103Z
+tags: 
+editor: markdown
+dateCreated: 2025-07-02T16:11:17.212Z
+---
+
 # Generate WATO configuration based on CMDB data
 
 i-doit provides detailed information about your IT infrastructure including all your hosts. Those hosts can be shared with Checkmk so you only have to document/configure your hosts once. To push these hosts to checkmk run:

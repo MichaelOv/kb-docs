@@ -1,9 +1,11 @@
 ---
 title: addons
 description: Here you find API methods from Add-ons
-icon: material/api
-#status: updated
-lang: en
+published: true
+date: 2025-07-02T16:28:45.454Z
+tags: 
+editor: markdown
+dateCreated: 2025-07-02T16:28:42.273Z
 ---
 
 # addons

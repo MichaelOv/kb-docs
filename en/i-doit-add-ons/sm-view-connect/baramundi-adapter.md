@@ -1,9 +1,11 @@
 ---
 title: SHD SM-VIEW Connect - Baramundi-Adapter
 description: SHD SM-VIEW Connect - Baramundi-Adapter
-icon:
-status:
-lang: en
+published: true
+date: 2025-07-02T16:13:19.877Z
+tags: 
+editor: markdown
+dateCreated: 2025-07-02T16:13:17.835Z
 ---
 
 With the Baramundi adapter, it is possible to import various objects from your Baramundi installation to i-doit.

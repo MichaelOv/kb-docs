@@ -1,8 +1,11 @@
 ---
 title: LDAPS Debian configuration
 description: Guide for configuring an LDAPS connection with i-doit for debian
-icon: material/debian
-lang: en
+published: true
+date: 2025-07-02T16:17:15.206Z
+tags: 
+editor: markdown
+dateCreated: 2025-07-02T16:17:13.004Z
 ---
 
 To establish a connection to the Active Directory via LDAPS or STARTTLS, the certificate from the LDAP server is required.

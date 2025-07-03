@@ -1,3 +1,13 @@
+---
+title: determine-the-author
+description: 
+published: true
+date: 2025-07-02T16:12:59.825Z
+tags: 
+editor: markdown
+dateCreated: 2025-07-02T16:12:57.540Z
+---
+
 # i-diary: Determine the author
 
 There are three ways to select an author:

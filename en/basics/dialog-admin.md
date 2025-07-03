@@ -1,3 +1,13 @@
+---
+title: dialog-admin
+description: 
+published: true
+date: 2025-07-02T15:53:21.840Z
+tags: 
+editor: markdown
+dateCreated: 2025-07-02T15:53:18.802Z
+---
+
 # Dialog-Admin
 
 The [attribute field](./attribute-fields.md) **Dialog+**, which is a dropdown field where you can edit values, is used quite often in i-doit. These attribute fields can be found in many [categories](../glossary.md) of the [IT documentation](../glossary.md) or in other features provided by i-doit. The central administration of the values is carried out via the **Dialog-Admin** in the **Administration**.

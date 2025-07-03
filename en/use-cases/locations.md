@@ -1,3 +1,13 @@
+---
+title: locations
+description: 
+published: true
+date: 2025-07-02T15:58:38.308Z
+tags: 
+editor: markdown
+dateCreated: 2025-07-02T15:58:35.980Z
+---
+
 # Locations
 
 The location of hardware and other components is an essential part of i-doit. This article explains the documentation of locations and how you place [objects](../basics/structure-of-the-it-documentation.md).

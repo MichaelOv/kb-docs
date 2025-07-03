@@ -1,3 +1,13 @@
+---
+title: risk-analysis-according-to-it-grundschutz
+description: 
+published: true
+date: 2025-07-02T16:13:49.906Z
+tags: 
+editor: markdown
+dateCreated: 2025-07-02T16:13:47.603Z
+---
+
 # Risk analysis according to IT-Grundschutz
 
 In part, the necessary information is based on additional data to be documented, in part on data already collected as part of the procedure with VIVA according to BSI Standard 100-2.

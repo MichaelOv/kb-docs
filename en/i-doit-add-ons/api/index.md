@@ -1,9 +1,11 @@
 ---
 title: API (JSON-RPC)
 description: API (JSON-RPC)
-icon: addons/api
-status:
-lang: en
+published: true
+date: 2025-07-02T16:11:01.779Z
+tags: 
+editor: markdown
+dateCreated: 2025-07-02T16:10:59.082Z
 ---
 
 !!! warning "Please create a complete backup before making any changes to an interface/import. If the result is not satisfying, it can then be restored"

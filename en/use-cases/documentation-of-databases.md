@@ -1,3 +1,13 @@
+---
+title: documentation-of-databases
+description: 
+published: true
+date: 2025-07-02T15:58:19.421Z
+tags: 
+editor: markdown
+dateCreated: 2025-07-02T15:58:17.336Z
+---
+
 # Documentation of Databases
 
 With version 1.xx of i-doit we have added an additional variant that can be used to document databases within i-doit.

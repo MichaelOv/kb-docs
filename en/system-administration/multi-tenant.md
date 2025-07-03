@@ -1,3 +1,13 @@
+---
+title: multi-tenant
+description: 
+published: true
+date: 2025-07-02T15:57:19.747Z
+tags: 
+editor: markdown
+dateCreated: 2025-07-02T15:57:16.604Z
+---
+
 # Multi-Tenants
 
 _i-doit_ is capable of managing multiple tenants. This means that one installation can map one or more independent [IT documentations](../glossary.md). The use cases are diverse: from sub-organizations which need to document separately of each other to system houses, which document customer IT in dedicated instances, to hosting providers which provide _i-doit_ as a service.

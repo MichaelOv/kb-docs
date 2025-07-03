@@ -1,3 +1,13 @@
+---
+title: release-notes-27
+description: 
+published: true
+date: 2025-07-02T16:19:15.871Z
+tags: 
+editor: markdown
+dateCreated: 2025-07-02T16:19:13.663Z
+---
+
 # Release Notes 27
 
 We're happy to announce i-doit 27. This release of 2023's autumn will add features to i-doit that have been highly awaited and help you to efficiently use your documentation.

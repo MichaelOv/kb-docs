@@ -1,3 +1,13 @@
+---
+title: analysis
+description: 
+published: true
+date: 2025-07-02T15:55:07.767Z
+tags: 
+editor: markdown
+dateCreated: 2025-07-02T15:55:05.388Z
+---
+
 # Analysis
 
 The **Analyse** [add-on](index.md) primarily enables two implementations: On the one hand, it examines data quality and documentation quality and supplies an interactive result view stating the determined status. On the other hand, the add-on can be used as failure simulation. In this way, you can run through various "What happens if..." scenarios and analyse their impact on the infrastructure. With a combined use of the interface for the [Checkmk](./checkmk.md) monitoring solution, you also can directly examine live failures with regard to their effect.

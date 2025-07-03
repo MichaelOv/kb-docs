@@ -1,3 +1,13 @@
+---
+title: snmp
+description: 
+published: true
+date: 2025-07-02T15:52:49.442Z
+tags: 
+editor: markdown
+dateCreated: 2025-07-02T15:52:47.257Z
+---
+
 # SNMP
 
 The SNMP category allows you to read out the SNMP values of objects and display them in realtime. Using the example scenario of querying a switch we will discuss the requirements and execution in this article.

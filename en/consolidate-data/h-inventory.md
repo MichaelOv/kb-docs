@@ -1,3 +1,13 @@
+---
+title: h-inventory
+description: 
+published: true
+date: 2025-07-02T15:53:59.928Z
+tags: 
+editor: markdown
+dateCreated: 2025-07-02T15:53:57.548Z
+---
+
 # H-Inventory
 
 !!! warning "Please create a complete backup before making any changes to an interface/import. If the result is not satisfying, it can then be restored"

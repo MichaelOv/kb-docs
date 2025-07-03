@@ -1,3 +1,13 @@
+---
+title: cmdb-right-management
+description: 
+published: true
+date: 2025-07-02T16:10:34.183Z
+tags: 
+editor: markdown
+dateCreated: 2025-07-02T16:10:31.083Z
+---
+
 # CMDB (User Rights Management)
 
 You can assign a lot of user [rights](./index.md) within the [IT documentation](../../glossary.md) of i-doit in order to achieve a fine-tuned definition of who can see and edit what. For this purpose, it is very useful to know the [structure of the IT documentation](../../basics/structure-of-the-it-documentation.md).

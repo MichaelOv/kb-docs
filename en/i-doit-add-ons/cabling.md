@@ -1,9 +1,11 @@
 ---
 title: Cabling view
 description: Cabling view
-icon: addons/cabling
-status:
-lang: en
+published: true
+date: 2025-07-02T15:55:11.102Z
+tags: 
+editor: markdown
+dateCreated: 2025-07-02T15:55:08.818Z
 ---
 
 # Cabling view

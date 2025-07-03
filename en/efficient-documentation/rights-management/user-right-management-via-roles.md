@@ -1,3 +1,13 @@
+---
+title: user-right-management-via-roles
+description: 
+published: true
+date: 2025-07-02T16:10:41.525Z
+tags: 
+editor: markdown
+dateCreated: 2025-07-02T16:10:39.287Z
+---
+
 # User right management via roles
 
 With version [1.18.2](../../version-history/release-notes/release-notes-1.18/release-notes-1.18.2.md) we have added a new way of assigning rights in i-doit. It is now possible to give users or groups rights to objects by linking them via the contact assignment. Furthermore, the rights can also be linked to the assignment of certain roles.

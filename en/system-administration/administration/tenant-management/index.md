@@ -1,3 +1,13 @@
+---
+title: index
+description: 
+published: true
+date: 2025-07-02T16:32:16.398Z
+tags: 
+editor: markdown
+dateCreated: 2025-07-02T16:32:13.966Z
+---
+
 # [Tenant name] management
 
 Here you can mange your tenant and view system related configurations. All settings can be expanded using `Expand all` and collapsed again using `Collapse all`.

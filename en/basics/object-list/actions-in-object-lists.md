@@ -1,3 +1,13 @@
+---
+title: actions-in-object-lists
+description: 
+published: true
+date: 2025-07-02T16:09:51.075Z
+tags: 
+editor: markdown
+dateCreated: 2025-07-02T16:09:47.924Z
+---
+
 # Actions in Object Lists
 
 Above the [object list](./index.md) is the action bar with which you can carry out various actions.

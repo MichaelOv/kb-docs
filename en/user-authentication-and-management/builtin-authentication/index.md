@@ -1,3 +1,13 @@
+---
+title: index
+description: 
+published: true
+date: 2025-07-02T16:17:00.621Z
+tags: 
+editor: markdown
+dateCreated: 2025-07-02T16:16:58.383Z
+---
+
 # Builtin authentication
 
 !!! example "Work in Progress"

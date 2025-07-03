@@ -1,3 +1,13 @@
+---
+title: tips-and-tricks-for-api
+description: 
+published: true
+date: 2025-07-02T16:11:05.208Z
+tags: 
+editor: markdown
+dateCreated: 2025-07-02T16:11:02.882Z
+---
+
 # Tips and Tricks for Working with the API
 
 For this article we collected many tips and tricks regarding efficient handling of the [application programming interface (API)](./index.md) of i-doit.

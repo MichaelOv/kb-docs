@@ -1,9 +1,11 @@
 ---
 title: Known update problems
 description: Known problems with the update
-icon: material/update
-status: updated
-lang: en
+published: true
+date: 2025-07-02T16:16:20.648Z
+tags: 
+editor: markdown
+dateCreated: 2025-07-02T16:16:17.379Z
 ---
 
 In this article we will add all known problems when updating from or to a specific i-doit version.

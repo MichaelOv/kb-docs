@@ -1,9 +1,11 @@
 ---
 title: i-doit 33 update and Flows installation
 description: i-doit 33 update and Flows installation
-icon:
-status: new
-lang: en
+published: true
+date: 2025-07-02T16:12:24.521Z
+tags: 
+editor: markdown
+dateCreated: 2025-07-02T16:12:21.434Z
 ---
 
 Here we describe how to update i-doit to version **33** to be able to install the Flows Add-on.

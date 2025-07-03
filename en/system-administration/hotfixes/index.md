@@ -1,8 +1,11 @@
 ---
 title: Hotfixes
 description: Hotfixes for the most recent i-doit version
-icon: fontawesome/solid/bug-slash
-lang: en
+published: true
+date: 2025-07-02T16:16:07.719Z
+tags: 
+editor: markdown
+dateCreated: 2025-07-02T16:16:05.474Z
 ---
 
 # Hotfixes

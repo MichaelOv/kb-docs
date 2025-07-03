@@ -1,3 +1,13 @@
+---
+title: index
+description: 
+published: true
+date: 2025-07-02T16:10:22.998Z
+tags: 
+editor: markdown
+dateCreated: 2025-07-02T16:10:20.489Z
+---
+
 # CSV Data Import
 
 !!! warning "Please create a complete backup before making any changes to an interface/import. If the result is not satisfying, it can then be restored"

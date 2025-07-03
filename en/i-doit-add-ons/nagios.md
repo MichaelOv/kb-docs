@@ -1,10 +1,13 @@
 ---
 title: Nagios
 description: Nagios
-icon: addons/nagios
-status:
-lang: en
+published: true
+date: 2025-07-02T15:55:46.024Z
+tags: 
+editor: markdown
+dateCreated: 2025-07-02T15:55:43.639Z
 ---
+
 # Nagios
 
 Nagios is a software for [Network Monitoring](../automation-and-integration/network-monitoring/index.md) which can be configured from data of the [IT documentation](../glossary.md). By this means, you can avoid that data have to be maintained twice and you can minimize errors. The export function available in i-doit allows the creation of complete or partial configurations. For this purpose, you manually create Nagios configurations in the i-doit interface or you fill it with values automatically.

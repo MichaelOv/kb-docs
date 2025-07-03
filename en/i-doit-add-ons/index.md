@@ -1,9 +1,11 @@
 ---
 title: i-doit Add-ons
 description: i-doit Add-ons
-#icon: material/
-status:
-lang: en
+published: true
+date: 2025-07-02T15:55:35.891Z
+tags: 
+editor: markdown
+dateCreated: 2025-07-02T15:55:33.544Z
 ---
 
 The [IT documentation](../basics/structure-of-the-it-documentation.md) and the [CMDB](../basics/structure-of-the-it-documentation.md) are in the foreground of i-doit. Moreover, there are extra add-ons to expand the scope of available functions of i-doit in line with your demands. In this way, the user is provided with a completely new perspective on IT documentation.

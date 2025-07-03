@@ -1,3 +1,13 @@
+---
+title: usage
+description: 
+published: true
+date: 2025-07-02T16:12:03.034Z
+tags: 
+editor: markdown
+dateCreated: 2025-07-02T16:12:00.850Z
+---
+
 # Usage
 
 Just run the application to print some basic information:

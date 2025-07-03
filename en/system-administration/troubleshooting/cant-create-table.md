@@ -1,3 +1,13 @@
+---
+title: cant-create-table
+description: 
+published: true
+date: 2025-07-02T16:16:11.992Z
+tags: 
+editor: markdown
+dateCreated: 2025-07-02T16:16:08.874Z
+---
+
 # Can't create table `idoit_data`.`table_name` (errno: 140 "Wrong create options")
 
 When restoring an SQL dump the following error message appears:

@@ -1,9 +1,11 @@
 ---
 title: Configuration of the Object list view
-description:
-icon:
-status:
-lang: en
+description: 
+published: true
+date: 2025-07-02T16:09:58.731Z
+tags: 
+editor: markdown
+dateCreated: 2025-07-02T16:09:55.642Z
 ---
 
 # Configuration of the Object list view

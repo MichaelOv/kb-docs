@@ -1,9 +1,11 @@
 ---
 title: Maintenance Add-on
 description: Maintenance Add-on
-icon: addons/maintenance
-status:
-lang: en
+published: true
+date: 2025-07-02T15:55:42.591Z
+tags: 
+editor: markdown
+dateCreated: 2025-07-02T15:55:40.091Z
 ---
 
 You can plan, coordinate and control maintenance dates with help of the **Maintenance intervals**  [add-on](./index.md). Planned maintenance works can be linked to any [objects](../basics/structure-of-the-it-documentation.md). You will receive notifications automatically via e-mail so that you do not miss the maintenance works.

@@ -1,3 +1,13 @@
+---
+title: import-users-and-groups
+description: 
+published: true
+date: 2025-07-02T16:17:07.546Z
+tags: 
+editor: markdown
+dateCreated: 2025-07-02T16:17:05.184Z
+---
+
 # How To import users and groups from AD/LDAP (advanced configuration)
 
 Importing users and groups from Active Directory into i-doit always takes place via the [console.php](../../automation-and-integration/cli/console/index.md) command. For this we use the [ldap-sync](./index.md) command.<br>

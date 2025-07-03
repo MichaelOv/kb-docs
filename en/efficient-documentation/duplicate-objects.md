@@ -1,3 +1,13 @@
+---
+title: duplicate-objects
+description: 
+published: true
+date: 2025-07-02T15:54:16.732Z
+tags: 
+editor: markdown
+dateCreated: 2025-07-02T15:54:14.358Z
+---
+
 # Duplicate Objects
 
 An object can be copied easily and fast in i-doit_._

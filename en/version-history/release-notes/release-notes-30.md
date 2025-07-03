@@ -1,3 +1,13 @@
+---
+title: release-notes-30
+description: 
+published: true
+date: 2025-07-02T16:19:25.750Z
+tags: 
+editor: markdown
+dateCreated: 2025-07-02T16:19:23.458Z
+---
+
 # Release Notes 30
 
 We're happy to announce i-doit 30. This version will bring a bunch of new features and improvements to enhance your i-doit experience. First of all we happily announce that **MariaDB 10.11** is officially supported with i-doit 30. Paired with **PHP 8.2** you are now able to update your operating system without having to worry about i-doit's compatibility.

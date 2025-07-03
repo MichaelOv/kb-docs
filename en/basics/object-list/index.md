@@ -1,3 +1,13 @@
+---
+title: index
+description: 
+published: true
+date: 2025-07-02T16:10:02.052Z
+tags: 
+editor: markdown
+dateCreated: 2025-07-02T16:09:59.798Z
+---
+
 # Object List
 
 The object lists in i-doit do not only serve the purpose of listing [objects](../../basics/structure-of-the-it-documentation.md#object), but also provide various features and they can be customized almost completely.

@@ -1,9 +1,11 @@
 ---
 title: Update PHP and MariaDB for i-doit Windows
 description: Instructions for updating PHP and MariaDB for i-doit Windows installations
-icon: material/microsoft-windows
-status:
-lang: en
+published: true
+date: 2025-07-02T15:57:53.944Z
+tags: 
+editor: markdown
+dateCreated: 2025-07-02T15:57:51.631Z
 ---
 
 In this article we will show you how to update PHP and MariaDB for your [i-doit Windows](../installation/manual-installation/microsoft-windows-server/index.md) installation.

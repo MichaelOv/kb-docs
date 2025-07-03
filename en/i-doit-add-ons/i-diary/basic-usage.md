@@ -1,3 +1,13 @@
+---
+title: basic-usage
+description: 
+published: true
+date: 2025-07-02T16:12:52.969Z
+tags: 
+editor: markdown
+dateCreated: 2025-07-02T16:12:50.711Z
+---
+
 # i-diary: Basic Usage
 
 Creating a new entry

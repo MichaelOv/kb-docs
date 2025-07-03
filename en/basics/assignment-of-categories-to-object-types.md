@@ -1,3 +1,13 @@
+---
+title: assignment-of-categories-to-object-types
+description: 
+published: true
+date: 2025-07-02T15:52:55.806Z
+tags: 
+editor: markdown
+dateCreated: 2025-07-02T15:52:53.528Z
+---
+
 # Assignment of Categories to Object Types
 
 Editing the data structure enables you to manage the assignments of [object type groups](../glossary.md), [object types](../glossary.md) and [categories](../glossary.md) comfortably and to adapt them to your requirements.

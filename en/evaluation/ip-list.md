@@ -1,3 +1,13 @@
+---
+title: ip-list
+description: 
+published: true
+date: 2025-07-02T15:54:43.104Z
+tags: 
+editor: markdown
+dateCreated: 2025-07-02T15:54:41.094Z
+---
+
 # IP List
 
 Again and again there is one central issue for the Admin: Which IP addresses are assigned to which host and which addresses can still be assigned? The IP lists in i-doit can be a great help to tackle this question.

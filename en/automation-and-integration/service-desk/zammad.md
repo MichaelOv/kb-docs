@@ -1,3 +1,13 @@
+---
+title: zammad
+description: 
+published: true
+date: 2025-07-02T16:09:46.815Z
+tags: 
+editor: markdown
+dateCreated: 2025-07-02T16:09:44.023Z
+---
+
 # Zammad
 
 [Zammad](https://zammad.com/) is a Web application suited for your service desk. It will display information about i-doit objects and connect tickets with objects. For more information about its configuration and usage, please contact the vendor behind Zammad.

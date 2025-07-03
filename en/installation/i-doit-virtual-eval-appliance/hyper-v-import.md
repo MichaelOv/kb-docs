@@ -1,3 +1,13 @@
+---
+title: hyper-v-import
+description: 
+published: true
+date: 2025-07-02T16:14:06.053Z
+tags: 
+editor: markdown
+dateCreated: 2025-07-02T16:14:03.725Z
+---
+
 # Import i-doit Appliance into a Hyper-V Environment
 
 We deliver our appliance in OVF format together with a virtual VMDK hard disk image. To import this into a Hyper-V environment, the virtual hard disk must be converted from the VMDK format into the VHD format in the first step.

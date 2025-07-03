@@ -1,8 +1,11 @@
 ---
 title: Hotfix archive
 description: Hotfix archive for all i-doit versions
-icon: fontawesome/solid/bug-slash
-lang: en
+published: true
+date: 2025-07-02T16:32:44.021Z
+tags: 
+editor: markdown
+dateCreated: 2025-07-02T16:32:41.774Z
 ---
 
 # Hotfix archive

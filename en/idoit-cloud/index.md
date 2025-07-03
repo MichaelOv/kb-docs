@@ -1,8 +1,11 @@
 ---
 title: i-doit cloud
 description: i-doit cloud
-#icon: material/cloud
-lang: en
+published: true
+date: 2025-07-02T15:56:10.179Z
+tags: 
+editor: markdown
+dateCreated: 2025-07-02T15:56:07.703Z
 ---
 
 # i-doit cloud

@@ -1,3 +1,13 @@
+---
+title: attribute-fields
+description: 
+published: true
+date: 2025-07-02T15:53:00.105Z
+tags: 
+editor: markdown
+dateCreated: 2025-07-02T15:52:56.943Z
+---
+
 # Attribute Fields
 
 Now that you are familiar with the [structure of the IT documentation](structure-of-the-it-documentation.md) let's take a closer look at the attribute fields which i-doitvides in the Web GUI.

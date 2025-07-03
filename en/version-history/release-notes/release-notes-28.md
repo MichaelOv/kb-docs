@@ -1,3 +1,13 @@
+---
+title: release-notes-28
+description: 
+published: true
+date: 2025-07-02T16:19:19.342Z
+tags: 
+editor: markdown
+dateCreated: 2025-07-02T16:19:17.066Z
+---
+
 # Release Notes 28
 
 We’re happy to announce i-doit 28 - 2023’s final release which focuses on **security and quality**.

@@ -1,9 +1,11 @@
 ---
 title: Flows Add-on
 description: Flows Add-on
-icon: addons/flows
-status:
-lang: en
+published: true
+date: 2025-07-02T15:55:29.071Z
+tags: 
+editor: markdown
+dateCreated: 2025-07-02T15:55:26.664Z
 ---
 
 The Flows add-on for i-doit is a powerful tool for automating processes within the CMDB system. It enables the creation of automated flows based on triggers and defined conditions. With flows, users can automate repetitive tasks and manual steps by defining rules that are triggered by certain events or conditions (e.g. a change in the CMDB). The add-on helps to make workflows more efficient, reduce errors and simplify the management of complex IT environments by handling routine processes without user interaction.

@@ -1,3 +1,13 @@
+---
+title: navigation-and-filtering
+description: 
+published: true
+date: 2025-07-02T16:10:06.338Z
+tags: 
+editor: markdown
+dateCreated: 2025-07-02T16:10:03.178Z
+---
+
 # Navigation and Filtering
 
 It's no big deal to navigate through an [object list](./index.md) and search for specific [objects](../structure-of-the-it-documentation.md). And yet it's worth taking a closer look.

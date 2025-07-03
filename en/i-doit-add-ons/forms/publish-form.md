@@ -1,3 +1,13 @@
+---
+title: publish-form
+description: 
+published: true
+date: 2025-07-02T16:12:41.923Z
+tags: 
+editor: markdown
+dateCreated: 2025-07-02T16:12:39.667Z
+---
+
 # Publish Forms
 
 To publish a form use the **Save and Publish** button in the form is clicked directly.

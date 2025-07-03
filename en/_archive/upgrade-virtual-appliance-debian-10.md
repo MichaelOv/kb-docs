@@ -1,3 +1,13 @@
+---
+title: upgrade-virtual-appliance-debian-10
+description: 
+published: true
+date: 2025-07-02T15:52:36.872Z
+tags: 
+editor: markdown
+dateCreated: 2025-07-02T15:52:33.912Z
+---
+
 # Upgrade of the i-doit Virtual Eval Appliance to Debian GNU/Linux 10 "Buster"
 
 In addition to the maintenance of i-doit, the maintenance of the underlying operating system should not be ignored. We describe the upgrade from Debian GNU/Linux in version 9 "Stretch" to 10 "Buster". In some steps the [i-doit Eval Virtual Appliance] is up to date.

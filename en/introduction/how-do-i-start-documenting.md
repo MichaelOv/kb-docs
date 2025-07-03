@@ -1,3 +1,13 @@
+---
+title: how-do-i-start-documenting
+description: 
+published: true
+date: 2025-07-02T15:56:29.089Z
+tags: 
+editor: markdown
+dateCreated: 2025-07-02T15:56:26.988Z
+---
+
 # How do i start documenting?
 
 Often people consult us with the following questions or similar considerations:

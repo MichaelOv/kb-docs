@@ -1,9 +1,11 @@
 ---
 title: Workflow
 description: Workflow
-icon: addons/workflow
-status:
-lang: en
+published: true
+date: 2025-07-02T15:56:06.573Z
+tags: 
+editor: markdown
+dateCreated: 2025-07-02T15:56:04.139Z
 ---
 
 # Workflow

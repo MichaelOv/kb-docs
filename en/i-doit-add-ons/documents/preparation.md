@@ -1,9 +1,11 @@
 ---
 title: Preparation
 description: prepare documents
-icon:
-status:
-lang: en
+published: true
+date: 2025-07-02T16:12:20.254Z
+tags: 
+editor: markdown
+dateCreated: 2025-07-02T16:12:18.041Z
 ---
 
 # Preparation

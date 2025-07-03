@@ -1,3 +1,13 @@
+---
+title: index
+description: 
+published: true
+date: 2025-07-02T16:13:29.210Z
+tags: 
+editor: markdown
+dateCreated: 2025-07-02T16:13:27.006Z
+---
+
 # VIVA
 
 !!! warning "Deprecated"

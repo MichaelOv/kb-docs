@@ -1,9 +1,11 @@
 ---
 title: Profiles in the CMDB-Explorer
-description:
-icon:
-status:
-lang: en
+description: 
+published: true
+date: 2025-07-02T16:10:44.883Z
+tags: 
+editor: markdown
+dateCreated: 2025-07-02T16:10:42.605Z
 ---
 
 # Profiles in the CMDB-Explorer

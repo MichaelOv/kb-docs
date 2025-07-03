@@ -1,3 +1,13 @@
+---
+title: index
+description: 
+published: true
+date: 2025-07-02T16:14:28.880Z
+tags: 
+editor: markdown
+dateCreated: 2025-07-02T16:14:25.762Z
+---
+
 # Backup and Recovery
 
 Since the [IT-documentation](../../glossary.md) contains important data required for daily work, the backup and recovery of i-doit is essential. Therefore it is important to consider i-doit with regard to the existing backup strategy.

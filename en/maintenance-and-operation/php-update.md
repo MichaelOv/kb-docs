@@ -1,9 +1,11 @@
 ---
 title: Updating PHP Debian/Ubuntu
 description: Things to keep in mind when updating PHP
-icon:
-status:
-lang: en
+published: true
+date: 2025-07-02T15:56:46.776Z
+tags: 
+editor: markdown
+dateCreated: 2025-07-02T15:56:44.407Z
 ---
 
 ## Introduction

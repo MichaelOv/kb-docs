@@ -1,3 +1,13 @@
+---
+title: example-csv-import-workplaces
+description: 
+published: true
+date: 2025-07-02T16:10:19.334Z
+tags: 
+editor: markdown
+dateCreated: 2025-07-02T16:10:17.241Z
+---
+
 # Example of CSV import - Workplaces
 
 !!! warning "Please create a complete backup before making any changes to an interface/import. If the result is not satisfying, it can then be restored"

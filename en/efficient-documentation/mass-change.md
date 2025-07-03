@@ -1,3 +1,13 @@
+---
+title: mass-change
+description: 
+published: true
+date: 2025-07-02T15:54:26.838Z
+tags: 
+editor: markdown
+dateCreated: 2025-07-02T15:54:24.638Z
+---
+
 # Mass Change
 
 The mass change is a feature in i-doit which allows for changing multiple [objects](../glossary.md) in one step on the basis of change templates. With these changes the selected objects assume the [attributes](../glossary.md) of the change template.

@@ -1,9 +1,11 @@
 ---
 title: Migration from Windows to Linux
 description: Migration from Windows to Linux
-icon: material/microsoft-windows
-status:
-lang: en
+published: true
+date: 2025-07-02T15:57:37.904Z
+tags: 
+editor: markdown
+dateCreated: 2025-07-02T15:57:34.774Z
 ---
 
 # Migration from Windows to Linux

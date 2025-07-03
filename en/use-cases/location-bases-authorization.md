@@ -1,3 +1,13 @@
+---
+title: location-bases-authorization
+description: 
+published: true
+date: 2025-07-02T15:58:35.000Z
+tags: 
+editor: markdown
+dateCreated: 2025-07-02T15:58:33.028Z
+---
+
 # Location-bases Authorization
 
 i-doit enables the definition of a very fine-grained rights management to allow only limited access to the IT documentation for certain user groups. This also includes user rights which only affect specific [locations](./locations.md).

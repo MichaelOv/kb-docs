@@ -1,3 +1,13 @@
+---
+title: dns-documentation
+description: 
+published: true
+date: 2025-07-02T15:55:17.959Z
+tags: 
+editor: markdown
+dateCreated: 2025-07-02T15:55:15.613Z
+---
+
 # DNS Documentation
 
 The "DNS Documentation" [add-on](./index.md) was designed and created as the first add-on with the [Add-on Packager](./add-on-packager.md). The idea behind the DNS Documentation is to easily document DNS entries in i-doit. The add-on creates the necessary object types and categories.

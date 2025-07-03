@@ -1,3 +1,13 @@
+---
+title: release-notes-34
+description: 
+published: true
+date: 2025-07-02T16:19:38.986Z
+tags: 
+editor: markdown
+dateCreated: 2025-07-02T16:19:36.726Z
+---
+
 # Release Notes 34
 <!-- cSpell:disable -->
 We are happy to announce the release of i-doit 34. With our first Release 2025 we introduce the next steps for our Add-on & Subscription Center. Explore and trial Add-ons, learn more about the potential of i-doit and get the most value out of your documentation.

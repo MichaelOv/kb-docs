@@ -1,9 +1,11 @@
 ---
 title: Migration from Linux to Windows
 description: Migration from Linux to Windows
-icon: fontawesome/brands/linux
-status:
-lang: en
+published: true
+date: 2025-07-02T15:57:33.741Z
+tags: 
+editor: markdown
+dateCreated: 2025-07-02T15:57:30.708Z
 ---
 
 # Migration from Linux to Windows

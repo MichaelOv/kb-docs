@@ -1,3 +1,13 @@
+---
+title: search
+description: 
+published: true
+date: 2025-07-02T15:54:33.757Z
+tags: 
+editor: markdown
+dateCreated: 2025-07-02T15:54:31.210Z
+---
+
 # Search
 
 "Seek and you shall find." Specific research in the [IT documentation](../glossary.md) requires a fast and comfortable search. A specific search is often a faster method than clicking through menu structures.

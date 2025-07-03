@@ -1,3 +1,13 @@
+---
+title: release-notes-26
+description: 
+published: true
+date: 2025-07-02T16:19:12.570Z
+tags: 
+editor: markdown
+dateCreated: 2025-07-02T16:19:10.396Z
+---
+
 # Release Notes 26
 
 We're happy to announce i-doit 26. This version will start the introduction to new PHP versions by officially supporting PHP 8.1. Don't worry, if your operating system requires you to use PHP 7.4. This version will still be compatible with i-doit until the end of 2023, so you have a bit more time to prepare your system.

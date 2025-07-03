@@ -1,9 +1,11 @@
 ---
 title: Two-factor Authentication administration
 description: Two-factor Authentication administration
-icon: material/two-factor-authentication
-status:
-lang: en
+published: true
+date: 2025-07-02T16:15:52.899Z
+tags: 
+editor: markdown
+dateCreated: 2025-07-02T16:15:50.725Z
 ---
 
 # Two-factor Authentication (2FA)

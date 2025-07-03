@@ -1,3 +1,13 @@
+---
+title: events
+description: 
+published: true
+date: 2025-07-02T15:55:22.285Z
+tags: 
+editor: markdown
+dateCreated: 2025-07-02T15:55:19.042Z
+---
+
 # Events
 
 The Event [add-on](./index.md) allow for a high degree of automation when working with the [IT documentation](../glossary.md). If something is changed in the IT documentation, then third-party system will be informed about these changes. If, for example, a new VM is documented in i-doit, it can automatically be created and provisioned on a virtualization host.

@@ -1,3 +1,13 @@
+---
+title: category-fields-for-data-arrays
+description: 
+published: true
+date: 2025-07-02T16:10:51.976Z
+tags: 
+editor: markdown
+dateCreated: 2025-07-02T16:10:45.782Z
+---
+
 # Category Fields for Data Arrays
 
 This article lists all available [categories and their attributes](../../basics/structure-of-the-it-documentation.md) of i-doit. This can be a very helpful list when you use the [application programming interface (API)](./index.md) of i-doit.

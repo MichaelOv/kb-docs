@@ -1,3 +1,13 @@
+---
+title: mysql-server-has-gone-away
+description: 
+published: true
+date: 2025-07-02T16:16:42.768Z
+tags: 
+editor: markdown
+dateCreated: 2025-07-02T16:16:39.977Z
+---
+
 # "MySQL-Server Has Gone Away"
 
 Problem

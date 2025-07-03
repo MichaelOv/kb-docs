@@ -1,3 +1,13 @@
+---
+title: index
+description: 
+published: true
+date: 2025-07-02T16:33:44.873Z
+tags: 
+editor: markdown
+dateCreated: 2025-07-02T16:33:41.687Z
+---
+
 # Single Sign On (SSO)
 
 The authentication via Single Sign On (SSO) is well suited for an automated sign on to i-doit within an intranet.

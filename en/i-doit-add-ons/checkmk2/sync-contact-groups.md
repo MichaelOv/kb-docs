@@ -1,3 +1,13 @@
+---
+title: sync-contact-groups
+description: 
+published: true
+date: 2025-07-02T16:11:53.170Z
+tags: 
+editor: markdown
+dateCreated: 2025-07-02T16:11:50.950Z
+---
+
 # Sync contact groups
 
 Checkmk notifies contact groups on every event if properly configured. Within i-doit each contact group can be documented as an object. To share contact groups between both run:

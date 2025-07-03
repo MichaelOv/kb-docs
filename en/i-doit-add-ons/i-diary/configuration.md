@@ -1,3 +1,13 @@
+---
+title: configuration
+description: 
+published: true
+date: 2025-07-02T16:12:56.424Z
+tags: 
+editor: markdown
+dateCreated: 2025-07-02T16:12:54.181Z
+---
+
 # i-diary: Configuration
 
 Change and save settings via GUI

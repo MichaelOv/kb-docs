@@ -1,3 +1,13 @@
+---
+title: requirements
+description: 
+published: true
+date: 2025-07-02T16:13:13.387Z
+tags: 
+editor: markdown
+dateCreated: 2025-07-02T16:13:11.285Z
+---
+
 # i-diary: Requirements
 
 The following requirements are necessary before installing or using the i-diary.

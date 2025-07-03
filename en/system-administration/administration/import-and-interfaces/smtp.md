@@ -1,3 +1,13 @@
+---
+title: smtp
+description: 
+published: true
+date: 2025-07-02T16:31:42.300Z
+tags: 
+editor: markdown
+dateCreated: 2025-07-02T16:31:40.080Z
+---
+
 # SMTP configuration (E-Mail)
 
 Here you can configure the mail server used by i-doit.

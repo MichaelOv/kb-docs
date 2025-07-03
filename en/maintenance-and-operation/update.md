@@ -1,3 +1,13 @@
+---
+title: update
+description: 
+published: true
+date: 2025-07-02T15:56:54.223Z
+tags: 
+editor: markdown
+dateCreated: 2025-07-02T15:56:51.904Z
+---
+
 # Update i-doit
 
 When working with i-doit, you should always use the newest version. Minor releases always contain numerous bug fixes, while major releases add new features and improve already existing functionalities. Minor updates are released approximately every four weeks and major updates every six months. The update can be [performed via the web interface of i-doit](./update.md), as long as an internet connection is available (and where applicable, via HTTP-proxy). Alternatively the update can be [prepared via console](./update.md) and then be continued in the web interface.

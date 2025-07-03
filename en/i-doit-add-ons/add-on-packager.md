@@ -1,3 +1,13 @@
+---
+title: add-on-packager
+description: 
+published: true
+date: 2025-07-02T15:55:04.442Z
+tags: 
+editor: markdown
+dateCreated: 2025-07-02T15:55:02.249Z
+---
+
 # Add-on Packager
 
 The idea of the Add-on Packager is to give the user the possibility to build his own full-fledged [add-ons](./index.md). The Add-on Packager is operated completely via the i-doit graphical user interface and no programming skills are required.<br>

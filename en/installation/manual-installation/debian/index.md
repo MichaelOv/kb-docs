@@ -1,9 +1,11 @@
 ---
 title: Debian 12 GNU/Linux
 description: i-doit installation on Debian 12
-icon: material/debian
-status:
-lang: en
+published: true
+date: 2025-07-02T16:30:35.864Z
+tags: 
+editor: markdown
+dateCreated: 2025-07-02T16:30:32.889Z
 ---
 
 In this article we explain in just a few steps which packages need to be installed and configured. We use a environment without **desktop** .

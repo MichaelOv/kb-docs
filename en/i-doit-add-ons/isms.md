@@ -1,3 +1,13 @@
+---
+title: isms
+description: 
+published: true
+date: 2025-07-02T15:55:39.181Z
+tags: 
+editor: markdown
+dateCreated: 2025-07-02T15:55:36.995Z
+---
+
 # ISMS
 
 The **ISMS** [add-on](../index.md) is used to evaluate, document and analyze the risk and measures management directly at the respective [objects](../basics/structure-of-the-it-documentation.md) of the IT documentation and also to generate presentable  

@@ -1,9 +1,11 @@
 ---
 title: Variable report
 description: Variable report
-icon:
-status:
-lang: en
+published: true
+date: 2025-07-02T15:54:57.938Z
+tags: 
+editor: markdown
+dateCreated: 2025-07-02T15:54:55.749Z
 ---
 
 Variable reports are very useful to customize your own i-doit installation for your individual needs.

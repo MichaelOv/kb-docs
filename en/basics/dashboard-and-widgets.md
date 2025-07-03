@@ -1,3 +1,13 @@
+---
+title: dashboard-and-widgets
+description: 
+published: true
+date: 2025-07-02T15:53:17.813Z
+tags: 
+editor: markdown
+dateCreated: 2025-07-02T15:53:14.881Z
+---
+
 # Dashboard and Widgets
 
 To be provided with the most important information upon signing in to i-doit you can customize your dashboard with useful widgets. Each user in i-doit has his own dashboard and can personalize his own view of data. Should you have set up the "ultimate" dashboard, you can even define it as default dashboard or transfer it to specific users.

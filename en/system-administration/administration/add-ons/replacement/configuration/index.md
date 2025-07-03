@@ -1,3 +1,13 @@
+---
+title: index
+description: 
+published: true
+date: 2025-07-02T16:42:12.108Z
+tags: 
+editor: markdown
+dateCreated: 2025-07-02T16:42:09.802Z
+---
+
 # Configuration
 
 | Option | Value |

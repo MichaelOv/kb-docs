@@ -1,3 +1,13 @@
+---
+title: example-csv-import-creating-locations
+description: 
+published: true
+date: 2025-07-02T16:10:12.870Z
+tags: 
+editor: markdown
+dateCreated: 2025-07-02T16:10:10.574Z
+---
+
 # Example of CSV import - Creating Locations
 
 !!! warning "Please create a complete backup before making any changes to an interface/import. If the result is not satisfying, it can then be restored"

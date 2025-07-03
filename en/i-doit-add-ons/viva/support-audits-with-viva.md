@@ -1,3 +1,13 @@
+---
+title: support-audits-with-viva
+description: 
+published: true
+date: 2025-07-02T16:13:52.910Z
+tags: 
+editor: markdown
+dateCreated: 2025-07-02T16:13:50.979Z
+---
+
 # Support audits with VIVA
 
 Audits are the reports needed for a possible certification according to ISO 27001 based on IT-Grundschutz. Audits can be created and managed with the VIVA add-on. In addition to audits, VIVA has other reports that serve continuous quality assurance.

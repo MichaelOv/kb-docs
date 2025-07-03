@@ -1,3 +1,13 @@
+---
+title: active-directory-documentation
+description: 
+published: true
+date: 2025-07-02T15:55:01.042Z
+tags: 
+editor: markdown
+dateCreated: 2025-07-02T15:54:58.888Z
+---
+
 # Active Directory Documentation
 
 The "Active Directory Documentation" add-on was designed and created as the first add-on with the Add-on Packager. The Active Directory Documentation add-on is designed to make it easier for administrators to document Microsoft environments. The add-on creates the necessary object types and categories.

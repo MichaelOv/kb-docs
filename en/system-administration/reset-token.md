@@ -1,10 +1,11 @@
 ---
 title: Find or reset your license token
 description: How to get your license token?
-icon:
-status: new
-lang: en
-note: linked in A&S Center
+published: true
+date: 2025-07-02T15:57:26.578Z
+tags: 
+editor: markdown
+dateCreated: 2025-07-02T15:57:24.334Z
 ---
 
 The i-doit license token is used to authenticate your i-doit instance against the license server and to retrieve your license keys. Without a valid license token you cannot access the Add-on & Subscription Center and your i-doit will not be licensed. You initially receive your license token when evaluating or buying an i-doit subscription. If you do not have access to your license token anymore please follow the instructions below or contact our sales team.

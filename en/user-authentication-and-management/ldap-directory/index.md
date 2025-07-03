@@ -1,3 +1,13 @@
+---
+title: index
+description: 
+published: true
+date: 2025-07-02T16:17:11.899Z
+tags: 
+editor: markdown
+dateCreated: 2025-07-02T16:17:08.405Z
+---
+
 # LDAP / Active Directory (AD)
 
 i-doit offers an interface for the authentication/ authorization and synchronization of data from a LDAP folder or an active directory (AD).

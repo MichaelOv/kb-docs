@@ -1,9 +1,11 @@
 ---
 title: Floorplan
 description: Floorplan
-icon: addons/floorplan
-status:
-lang: en
+published: true
+date: 2025-07-02T15:55:25.696Z
+tags: 
+editor: markdown
+dateCreated: 2025-07-02T15:55:23.176Z
 ---
 
 Via the **Floorplan** [add-on](./index.md) it is possible for you to assign graphical plans to all [objects](../basics/structure-of-the-it-documentation.md) which are location objects, to match them with measurements and to position the locally assigned objects in this plan.

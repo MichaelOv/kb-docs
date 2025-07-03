@@ -1,3 +1,13 @@
+---
+title: check-list-for-your-it-documentation
+description: 
+published: true
+date: 2025-07-02T15:56:25.938Z
+tags: 
+editor: markdown
+dateCreated: 2025-07-02T15:56:23.543Z
+---
+
 # Check List for Your IT Documentation
 
 A good [IT documentation](../glossary.md): What is it that makes a difference? At bookshops you can find extensive literature to deal with the subject in detail and as a whole.

@@ -1,3 +1,13 @@
+---
+title: upload-and-link-files
+description: 
+published: true
+date: 2025-07-02T15:58:51.909Z
+tags: 
+editor: markdown
+dateCreated: 2025-07-02T15:58:49.038Z
+---
+
 # Upload and Link Files
 
 A complete IT documentation often includes documents in form of files. Whether you have operating manuals, emergency plans, contracts, installation protocols or drivers - important files should be linked to [objects](../basics/structure-of-the-it-documentation.md) in i-doit.

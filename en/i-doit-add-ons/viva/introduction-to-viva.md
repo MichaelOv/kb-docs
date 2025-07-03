@@ -1,3 +1,13 @@
+---
+title: introduction-to-viva
+description: 
+published: true
+date: 2025-07-02T16:13:32.584Z
+tags: 
+editor: markdown
+dateCreated: 2025-07-02T16:13:30.302Z
+---
+
 # Introduction to VIVA
 
 VIVA stands for availability, integrity, confidentiality, authenticity and is available as an [add-on](./../index.md).

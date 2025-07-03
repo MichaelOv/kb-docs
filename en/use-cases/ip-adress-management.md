@@ -1,3 +1,13 @@
+---
+title: ip-adress-management
+description: 
+published: true
+date: 2025-07-02T15:58:32.016Z
+tags: 
+editor: markdown
+dateCreated: 2025-07-02T15:58:29.539Z
+---
+
 # IP Address Management (IPAM)
 
 An essential part of an [IT documentation](../glossary.md) is the maintenance of IP networks, IP addresses and various network components, the so-called IP Address Management (IPAM).

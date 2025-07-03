@@ -1,3 +1,13 @@
+---
+title: index
+description: 
+published: true
+date: 2025-07-02T16:16:16.411Z
+tags: 
+editor: markdown
+dateCreated: 2025-07-02T16:16:13.116Z
+---
+
 # Troubleshooting
 
 Unpredictable behaviour in i-doit. An error! How to deal with it? Please read on! It could be useful.

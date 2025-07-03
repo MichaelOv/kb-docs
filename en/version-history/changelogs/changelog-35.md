@@ -1,7 +1,13 @@
 ---
-search:
-  exclude: true
+title: changelog-35
+description: 
+published: true
+date: 2025-07-02T16:18:12.824Z
+tags: 
+editor: markdown
+dateCreated: 2025-07-02T16:18:10.248Z
 ---
+
 # Changelog 35
 <!-- cSpell:disable -->
 [Task][Code (Internal)]              Allow switching tenant without redirecting to the base location of i-doit<br>

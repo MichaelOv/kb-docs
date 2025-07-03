@@ -1,9 +1,11 @@
 ---
 title: console
 description: cobject
-icon: material/api
-#status: updated
-lang: en
+published: true
+date: 2025-07-02T16:30:20.237Z
+tags: 
+editor: markdown
+dateCreated: 2025-07-02T16:30:17.227Z
 ---
 
 # console

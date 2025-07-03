@@ -1,9 +1,11 @@
 ---
 title: Configuration files for console commands
 description: Using Configuration files for Console Commands
-icon:
-status:
-lang: en
+published: true
+date: 2025-07-02T16:28:41.336Z
+tags: 
+editor: markdown
+dateCreated: 2025-07-02T16:28:38.835Z
 ---
 
 # Configuration files for console commands

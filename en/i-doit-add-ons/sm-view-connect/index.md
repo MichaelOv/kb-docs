@@ -1,9 +1,11 @@
 ---
 title: SHD SM-VIEW Connect
 description: SHD SM-VIEW Connect
-icon:
-status:
-lang: en
+published: true
+date: 2025-07-02T16:13:22.680Z
+tags: 
+editor: markdown
+dateCreated: 2025-07-02T16:13:20.556Z
 ---
 
 This module requires the [**SM-VIEW Client**](https://smdocu.atlassian.net/wiki/spaces/SKB/pages/742260740/SM-VIEW+Client) as a base module.

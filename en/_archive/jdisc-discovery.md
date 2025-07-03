@@ -1,9 +1,11 @@
 ---
 title: JDisc Discovery
 description: JDisc Discovery configuration
-icon: addons/jdisc
-status:
-lang: en
+published: true
+date: 2025-07-02T15:52:29.327Z
+tags: 
+editor: markdown
+dateCreated: 2025-07-02T15:52:27.039Z
 ---
 
 !!! warning "Please create a complete backup before making any changes to an interface/import. If the result is not satisfying, it can then be restored"

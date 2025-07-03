@@ -1,9 +1,11 @@
 ---
 title: System settings
 description: System settings
-icon: material/wrench-cog
-status:
-lang: en
+published: true
+date: 2025-07-02T16:14:20.352Z
+tags: 
+editor: markdown
+dateCreated: 2025-07-02T16:14:18.071Z
 ---
 
 # System settings

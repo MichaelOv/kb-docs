@@ -1,3 +1,13 @@
+---
+title: attribute-validation-and-mandatory-fields
+description: 
+published: true
+date: 2025-07-02T15:54:13.285Z
+tags: 
+editor: markdown
+dateCreated: 2025-07-02T15:54:10.965Z
+---
+
 # Attribute validation and Mandatory Fields
 
 If you want to ensure the uniqueness of [attributes](../glossary.md) or if you expect only defined values when maintaining particular fields or if you wish to make certain fields mandatory, then i-doit will provide the corresponding features.

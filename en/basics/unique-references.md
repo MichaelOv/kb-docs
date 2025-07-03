@@ -1,3 +1,13 @@
+---
+title: unique-references
+description: 
+published: true
+date: 2025-07-02T15:53:49.115Z
+tags: 
+editor: markdown
+dateCreated: 2025-07-02T15:53:45.946Z
+---
+
 # Unique References
 
 References are important to prevent a lack of clarity and unambiguousness within the [IT documentation](../glossary.md). If you want to reference [objects](structure-of-the-it-documentation.md) for third-party systems, for example, various [attributes](../glossary.md) can be used for this task.

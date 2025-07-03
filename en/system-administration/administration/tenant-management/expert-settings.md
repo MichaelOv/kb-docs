@@ -1,3 +1,13 @@
+---
+title: expert-settings
+description: 
+published: true
+date: 2025-07-02T16:32:12.788Z
+tags: 
+editor: markdown
+dateCreated: 2025-07-02T16:32:10.416Z
+---
+
 # Expert settings (Tenant related)
 
 The expert settings are a kind of "registry" of i-doit. Most settings are set via a option in the settings area. Also some option are only available when added here.

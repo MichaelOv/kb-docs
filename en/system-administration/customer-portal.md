@@ -1,9 +1,11 @@
 ---
 title: Customer Portal
 description: Customer Portal
-icon:
-status:
-lang: en
+published: true
+date: 2025-07-02T15:57:07.740Z
+tags: 
+editor: markdown
+dateCreated: 2025-07-02T15:57:05.514Z
 ---
 
 # Customer Portal

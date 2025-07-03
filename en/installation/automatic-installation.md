@@ -1,3 +1,13 @@
+---
+title: automatic-installation
+description: 
+published: true
+date: 2025-07-02T15:56:13.466Z
+tags: 
+editor: markdown
+dateCreated: 2025-07-02T15:56:11.230Z
+---
+
 # Automatic Installation
 
 This article describes the automatic [IT documentation](../glossary.md) of i-doit. All the required configuration steps are executed on a newly installed GNU/Linux operating system and i-doit is installed. Additionally, Cronjobs, backups and other useful CLI tools are included. Only the execution of a script is required for this purpose.

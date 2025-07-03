@@ -1,3 +1,13 @@
+---
+title: index
+description: 
+published: true
+date: 2025-07-02T16:41:51.153Z
+tags: 
+editor: markdown
+dateCreated: 2025-07-02T16:41:48.877Z
+---
+
 # User interface
 
 Here you find interface related configurations. Also from Add-ons.
