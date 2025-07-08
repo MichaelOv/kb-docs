@@ -1,0 +1,602 @@
+<!--
+title: Admin-Center
+description: Admin-Center
+published: true
+date: 2025-07-08T07:51:04.331Z
+tags: 
+editor: ckeditor
+dateCreated: 2025-07-03T08:46:12.041Z
+-->
+
+<h1 class="toc-header" id="admin-center"> Admin-Center</h1>
+<p>Das Admin-Center ist eine in i-doit integrierte separate Administrations-Oberfläche. Hierüber werden mandantenübergreifende Einstellungen konfiguriert.</p>
+<p>!!! tip "Add-ons und Subskriptionen sind nun auch über das <a class="is-asset-link" href="add-on-and-subscription-center.md">Add-on &amp; Subscription Center</a> verwaltbar."</p>
+<h2 class="toc-header" id="zugangsdaten"> Zugangsdaten</h2>
+<p>!!! attention "Achtung!"<br>
+Sollten Sie sich nicht mehr einloggen können, dann kann das Passwort nur über die <a class="is-asset-link" href="../automatisierung-und-integration/cli/console/befehle-und-optionen.md#admin-center-password-reset">CLI</a> geändert werden!</p>
+<p>Für das Admin-Center gelten <strong>separate Zugangsdaten</strong>. Diese können bei der <a class="is-asset-link" href="../installation/manuelle-installation/setup.md">Installation von i-doit</a> festgelegt werden. Sollte dieser Schritt übersprungen werden, ist erst einmal kein Zugang zum Admin-Center möglich.</p>
+<h2 class="toc-header" id="anmeldung"> Anmeldung</h2>
+<p>Das Admin-Center ist über die <a class="is-asset-link" href="../grundlagen/erstanmeldung.md">Login-Maske von i-doit</a> zu erreichen. Unterhalb der Maske befindet sich der Link <strong>Admin-Center</strong>.</p>
+<p><a class="is-asset-link" href="../assets/images/de/administration/admin-center/1-ac.png"><img alt="Anmeldung" src="../assets/images/de/administration/admin-center/1-ac.png"></a></p>
+<p>Alternativ kann im Browser die URL zum Admin-Center eingegeben werden. Dabei wird dem Link zu i-doit ein <code>/admin/</code> nachgestellt:</p>
+<p><a class="is-external-link" href="https://demo.i-doit.com/admin/">https://demo.i-doit.com/admin/</a></p>
+<p><a class="is-asset-link" href="../assets/images/de/administration/admin-center/2-ac.png"><img alt="Anmeldung" src="../assets/images/de/administration/admin-center/2-ac.png"></a></p>
+<p>!!! info "Englische Oberfläche"<br>
+Das Admin-Center ist vollständig in englisch gehalten.</p>
+<h2 class="toc-header" id="übersicht"> Übersicht</h2>
+<p>Im Bereich <strong>Home</strong> wird die derzeit installierte Version von i-doit angezeigt. Unter dem Punkt <strong>Actions</strong> kann das <strong>i-doit environment info file</strong> heruntergeladen werden. Dies ist eine XML-Datei mit wichtigen Systemeinstellungen, die beim <a class="is-asset-link" href="../administration/troubleshooting/index.md">Troubleshooting</a> sehr hilfreich sein können.</p>
+<p><a class="is-asset-link" href="../assets/images/de/administration/admin-center/3-ac.png"><img alt="Übersicht" src="../assets/images/de/administration/admin-center/3-ac.png"></a></p>
+<h2 class="toc-header" id="mandanten"> Mandanten</h2>
+<p>Im Bereich <strong>Tenants</strong> werden die Mandanten verwaltet. Dies wird allerdings nur bei einer Multi-Mandanten-Lizenz von i-doit relevant. Neue Mandanten können über die Schaltfläche "Add new tenant" erzeugt werden. Bestehende Mandanten können außerdem bearbeitet, (de)aktiviert oder vollständig gelöscht werden. Ein gelöschter Mandant kann nur über ein <a class="is-asset-link" href="../wartung-und-betrieb/daten-sichern-und-wiederherstellen/index.md">BackUp</a> wiederhergestellt werden.</p>
+<p><a class="is-asset-link" href="../assets/images/de/administration/admin-center/4-ac.png"><img alt="Mandanten" src="../assets/images/de/administration/admin-center/4-ac.png"></a></p>
+<h2 class="toc-header" id="lizenzen"> Lizenzen</h2>
+<p>Über den Bereich <strong>Licenses</strong> wird die <a class="is-asset-link" href="../wartung-und-betrieb/lizenzierung.md">Lizenzierung</a> vorgenommen.</p>
+<p><a class="is-asset-link" href="../assets/images/de/administration/admin-center/5-ac.png"><img alt="Lizenzen" src="../assets/images/de/administration/admin-center/5-ac.png"></a></p>
+<h2 class="toc-header" id="add-ons"> Add-ons</h2>
+<p>Im Bereich <strong>Add-ons</strong> werden die <a class="is-asset-link" href="../i-doit-add-ons/index.md">i-doit Add-ons</a> verwaltet. Jede Funktionalität von i-doit ist in einem Modul gekapselt. Viele davon gehören zum Kern (<strong>core</strong>) von i-doit, einige davon gelten als <strong>extension</strong>, wenn sie bei der Installation bereits installiert sind, oder als <strong>addon</strong>, wenn sie zusätzlich installiert werden können.</p>
+<p><a class="is-asset-link" href="../assets/images/de/administration/admin-center/6-ac.png"><img alt="Add-ons" src="../assets/images/de/administration/admin-center/6-ac.png"></a></p>
+<h2 class="toc-header" id="support"> Support</h2>
+<p>Bei einem Klick auf den Bereich <strong>Support</strong> wird das &lt;<a class="is-external-link" href="http://help.i-doit.com">help.i-doit.com</a>&gt;&lt;/https.help.i-doit.com&gt; in einem neuen Tab geöffnet. Dort können Sie Tickets erstellen und den Bearbeitungsstand einsehen.</p>
+<h2 class="toc-header" id="system-settings"> System settings</h2>
+<p>Hier finden Sie die system bezogenen Einstellungen. Auch finden Sie hier den Link zu den <a href="#expert-settings-system-related">Experteneinstellungen</a> auf der rechten Seite.</p>
+<h3 class="toc-header" id="login"> Login</h3>
+<div class="table-container"><table>
+<thead>
+<tr>
+<th>Option</th>
+<th>Wert</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Welcome message for login</td>
+<td>String</td>
+</tr>
+</tbody>
+</table></div>
+<h3 class="toc-header" id="ldap-debug-settings"> LDAP Debug settings</h3>
+<div class="table-container"><table>
+<thead>
+<tr>
+<th>Option</th>
+<th>Wert</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>LDAP Debug</td>
+<td>Ja oder Nein</td>
+</tr>
+</tbody>
+</table></div>
+<p>Einstellung kann auch via <a href="#expert-settings-system-related">Expert settings</a> geändert werden. Die Option heißt <code>ldap.debug</code>.</p>
+<h3 class="toc-header" id="smtp"> SMTP</h3>
+<div class="table-container"><table>
+<thead>
+<tr>
+<th>Option</th>
+<th>Wert</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>SMTP Host</td>
+<td>Hostname oder URL</td>
+</tr>
+<tr>
+<td>SMTP Port</td>
+<td>Port</td>
+</tr>
+<tr>
+<td>SMTP Username</td>
+<td>Username</td>
+</tr>
+<tr>
+<td>SMTP Password</td>
+<td>Password</td>
+</tr>
+<tr>
+<td>SMTP TLS</td>
+<td>Ja oder Nein</td>
+</tr>
+<tr>
+<td>Sender</td>
+<td>E-Mail Adresse</td>
+</tr>
+<tr>
+<td>Name</td>
+<td>Name</td>
+</tr>
+<tr>
+<td>Timeout</td>
+<td>Wert in Sekunden</td>
+</tr>
+<tr>
+<td>SMTP Debug</td>
+<td>Ja oder Nein</td>
+</tr>
+<tr>
+<td>Subject prefix</td>
+<td>String</td>
+</tr>
+</tbody>
+</table></div>
+<p>Zusätzlich gibt es einen Button, der die SMTP Verbindung testet.</p>
+<h3 class="toc-header" id="proxy"> Proxy</h3>
+<div class="table-container"><table>
+<thead>
+<tr>
+<th>Option</th>
+<th>Wert</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Active</td>
+<td>Ja oder Nein</td>
+</tr>
+<tr>
+<td>Host/IP-Address</td>
+<td>Host oder IP address</td>
+</tr>
+<tr>
+<td>Port</td>
+<td>Port</td>
+</tr>
+<tr>
+<td>Username</td>
+<td>Username</td>
+</tr>
+<tr>
+<td>Password</td>
+<td>Password</td>
+</tr>
+</tbody>
+</table></div>
+<h3 class="toc-header" id="security"> Security</h3>
+<div class="table-container"><table>
+<thead>
+<tr>
+<th>Option</th>
+<th>Wert</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>CSRF-Token</td>
+<td>Ja oder Nein</td>
+</tr>
+</tbody>
+</table></div>
+<h3 class="toc-header" id="session"> Session</h3>
+<div class="table-container"><table>
+<thead>
+<tr>
+<th>Option</th>
+<th>Wert</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Session timeout</td>
+<td>Wert in Sekunden</td>
+</tr>
+</tbody>
+</table></div>
+<h3 class="toc-header" id="single-sign-on"> Single Sign On</h3>
+<div class="table-container"><table>
+<thead>
+<tr>
+<th>Option</th>
+<th>Wert</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Active</td>
+<td>Ja oder Nein</td>
+</tr>
+<tr>
+<td>Default tenant</td>
+<td>Dropdown Auswahl</td>
+</tr>
+<tr>
+<td>Use Domain Part</td>
+<td>Ja oder Nein</td>
+</tr>
+</tbody>
+</table></div>
+<h3 class="toc-header" id="system-parameters"> System Parameters</h3>
+<div class="table-container"><table>
+<thead>
+<tr>
+<th>Option</th>
+<th>Wert</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>PHP Timezone</td>
+<td>Zeitzone</td>
+</tr>
+<tr>
+<td>File upload directory</td>
+<td>Pfad</td>
+</tr>
+<tr>
+<td>Image upload directory</td>
+<td>Pfad</td>
+</tr>
+</tbody>
+</table></div>
+<h3 class="toc-header" id="user-interface"> User interface</h3>
+<div class="table-container"><table>
+<thead>
+<tr>
+<th>Option</th>
+<th>Wert</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Wiki URL</td>
+<td>URL</td>
+</tr>
+<tr>
+<td>Sortfunction for login tenantlist</td>
+<td>Title<br>Custom (configurable in Admin-Center)</td>
+</tr>
+</tbody>
+</table></div>
+<h2 class="toc-header" id="konfiguration"> Konfiguration</h2>
+<p>Im Bereich Config werden drei Punkte konfiguriert:</p>
+<ul>
+<li>Über <strong>Admin-Center Credentials</strong> können die Zugangsdaten zum Admin-Center geändert werden.</li>
+<li>Über <strong>Security configuration</strong> kann die <code>Encryption method</code> ausgewählt werden. Sofern verfügbar.</li>
+<li>Über <strong>Connection to i-doit System Database</strong> kann der Zugang zur <a class="is-asset-link" href="../software-entwicklung/datenbank-modell/index.md">System-Datenbank</a> geändert werden.</li>
+</ul>
+<p><a class="is-asset-link" href="../assets/images/de/administration/admin-center/7-ac.png"><img alt="Konfiguration" src="../assets/images/de/administration/admin-center/7-ac.png"></a></p>
+<p>Die Einstellungen können in <strong>Notfällen</strong> in der Datei <code>src/config.inc.php</code> im Installationsverzeichnis von i-doit geändert werden. Diese Datei wird bei der <a class="is-asset-link" href="../installation/manuelle-installation/setup.md">Installation von i-doit</a> erstellt. Wird ein <a class="is-asset-link" href="../wartung-und-betrieb/update-einspielen.md">Update von i-doit</a> eingespielt, wird automatisch ein <a class="is-asset-link" href="../wartung-und-betrieb/daten-sichern-und-wiederherstellen/index.md">Backup</a> der Datei erstellt. Im Dateinamen wird das Datum des Updates angeben.</p>
+<h2 class="toc-header" id="expert-settings-system-bezogen"> Expert settings (System bezogen)</h2>
+<p>Die Experteneinstellungen für das komplette System befinden sich im Admin-Center. Sie erreichen diese über die <a href="#system-settings">System settings</a></p>
+<div class="table-container"><table>
+<thead>
+<tr>
+<th>Key</th>
+<th>Value</th>
+<th>Description</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>system.email.password</td>
+<td>-</td>
+<td>system.email.port</td>
+</tr>
+<tr>
+<td>admin.active_license_distribution</td>
+<td>1</td>
+<td></td>
+</tr>
+<tr>
+<td>api.authenticated-users-only</td>
+<td>1</td>
+<td></td>
+</tr>
+<tr>
+<td>api.status</td>
+<td>1</td>
+<td></td>
+</tr>
+<tr>
+<td>api.validation</td>
+<td>1</td>
+<td></td>
+</tr>
+<tr>
+<td>auth.active</td>
+<td>1</td>
+<td></td>
+</tr>
+<tr>
+<td>barcode.type</td>
+<td>qr</td>
+<td></td>
+</tr>
+<tr>
+<td>cmdb.connector.suffix-schema</td>
+<td>-</td>
+<td></td>
+</tr>
+<tr>
+<td>cmdb.limits.connector-lists-assigned_connectors</td>
+<td>5</td>
+<td></td>
+</tr>
+<tr>
+<td>cmdb.limits.obj-browser.objects-in-viewmode</td>
+<td>8</td>
+<td></td>
+</tr>
+<tr>
+<td>cmdb.limits.port-lists-layer2</td>
+<td>5</td>
+<td></td>
+</tr>
+<tr>
+<td>cmdb.limits.port-lists-vlans</td>
+<td>5</td>
+<td></td>
+</tr>
+<tr>
+<td>cmdb.limits.port-overview-default-vlan-only</td>
+<td>0</td>
+<td></td>
+</tr>
+<tr>
+<td>cmdb.limits.port-overview-vlans</td>
+<td>-</td>
+<td></td>
+</tr>
+<tr>
+<td>cmdb.object-browser.max-objects</td>
+<td>-</td>
+<td></td>
+</tr>
+<tr>
+<td>cmdb.object.title.cable-prefix</td>
+<td>KABEL_DEFAULT_</td>
+<td></td>
+</tr>
+<tr>
+<td>cmdb.objtype.X.auto-inventory-no</td>
+<td>-</td>
+<td></td>
+</tr>
+<tr>
+<td>cmdb.quickpurge</td>
+<td>0</td>
+<td></td>
+</tr>
+<tr>
+<td>cmdb.renew-properties</td>
+<td>1</td>
+<td></td>
+</tr>
+<tr>
+<td>cmdb.unique.hostname</td>
+<td>0</td>
+<td></td>
+</tr>
+<tr>
+<td>cmdb.unique.ip-address</td>
+<td>0</td>
+<td></td>
+</tr>
+<tr>
+<td>cmdb.unique.layer-2-net</td>
+<td>0</td>
+<td></td>
+</tr>
+<tr>
+<td>cmdb.unique.object-title</td>
+<td>0</td>
+<td></td>
+</tr>
+<tr>
+<td>debug_bar.storeDirectory</td>
+<td>/tmp/idoit_debugbar</td>
+<td></td>
+</tr>
+<tr>
+<td>debug-bar.enabled</td>
+<td>1</td>
+<td></td>
+</tr>
+<tr>
+<td>email.template.maintenance</td>
+<td><code>Your maintenance contract: %s timed out.\n&lt;strong&gt;Contract information&lt;/strong&gt;:\nStart: %s\nEnd: %s\nSupport-Url: %s\nContract-Number: %s\nCustomer-Number: %s</code></td>
+<td></td>
+</tr>
+<tr>
+<td>email.template.password</td>
+<td>Ihr Passwort lautet:</td>
+<td></td>
+</tr>
+<tr>
+<td>gui.empty_value</td>
+<td>-</td>
+<td></td>
+</tr>
+<tr>
+<td>gui.empty_values</td>
+<td>-</td>
+<td></td>
+</tr>
+<tr>
+<td>gui.forum-link</td>
+<td>0</td>
+<td></td>
+</tr>
+<tr>
+<td>gui.leftcontent.width</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>gui.wiki-url</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>gui.wysiwyg</td>
+<td>1</td>
+<td></td>
+</tr>
+<tr>
+<td>gui.wysiwyg-all-controls</td>
+<td>1</td>
+<td></td>
+</tr>
+<tr>
+<td>import.object.keep-status</td>
+<td>0</td>
+<td></td>
+</tr>
+<tr>
+<td>ldap.debug</td>
+<td>1</td>
+<td></td>
+</tr>
+<tr>
+<td>ldap.default-group</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>logbook.changes</td>
+<td>1</td>
+<td></td>
+</tr>
+<tr>
+<td>logging.cmdb.import</td>
+<td>1</td>
+<td></td>
+</tr>
+<tr>
+<td>login.tenantlist.sortby</td>
+<td>isys_mandator__sort</td>
+<td></td>
+</tr>
+<tr>
+<td>maxlength.dialog_plus</td>
+<td>110</td>
+<td></td>
+</tr>
+<tr>
+<td>mysql.unbuffered-queries</td>
+<td>0</td>
+<td></td>
+</tr>
+<tr>
+<td>proxy.active</td>
+<td>0</td>
+<td></td>
+</tr>
+<tr>
+<td>proxy.host</td>
+<td>-</td>
+<td></td>
+</tr>
+<tr>
+<td>proxy.password</td>
+<td>-</td>
+<td></td>
+</tr>
+<tr>
+<td>proxy.port</td>
+<td>-</td>
+<td></td>
+</tr>
+<tr>
+<td>proxy.username</td>
+<td>-</td>
+<td></td>
+</tr>
+<tr>
+<td>qrcode.config</td>
+<td>-</td>
+<td></td>
+</tr>
+<tr>
+<td>reports.browser-url</td>
+<td>-</td>
+<td></td>
+</tr>
+<tr>
+<td>security.passwort.minlength</td>
+<td>-</td>
+<td></td>
+</tr>
+<tr>
+<td>session.sso.active</td>
+<td>0</td>
+<td></td>
+</tr>
+<tr>
+<td>session.sso.mandator-id</td>
+<td>1,2</td>
+<td>Reihenfolge für die Anmeldung über sso</td>
+</tr>
+<tr>
+<td>session.time</td>
+<td>3600</td>
+<td></td>
+</tr>
+<tr>
+<td>system.devmode</td>
+<td>-</td>
+<td></td>
+</tr>
+<tr>
+<td>system.email.connection-timeout</td>
+<td>-</td>
+<td></td>
+</tr>
+<tr>
+<td>system.email.from</td>
+<td><a href="mailto:i-doit@example-domain.int">i-doit@example-domain.int</a></td>
+<td></td>
+</tr>
+<tr>
+<td><a class="is-external-link" href="http://system.email.name">system.email.name</a></td>
+<td>-</td>
+<td></td>
+</tr>
+<tr>
+<td>system.email.smtp-auto-tls</td>
+<td>0</td>
+<td></td>
+</tr>
+<tr>
+<td>system.email.smtp-host</td>
+<td>-</td>
+<td></td>
+</tr>
+<tr>
+<td>system.email.smtpdebug</td>
+<td>0</td>
+<td></td>
+</tr>
+<tr>
+<td>system.email.subject-prefix</td>
+<td>[i-doit]</td>
+<td></td>
+</tr>
+<tr>
+<td>system.email.username</td>
+<td>-</td>
+<td></td>
+</tr>
+<tr>
+<td>system.last-change</td>
+<td>1689077222</td>
+<td></td>
+</tr>
+<tr>
+<td>system.login.welcome-message</td>
+<td>-</td>
+<td></td>
+</tr>
+<tr>
+<td>system.security.csrf</td>
+<td>1</td>
+<td></td>
+</tr>
+<tr>
+<td>system.show-proc-time</td>
+<td>0</td>
+<td></td>
+</tr>
+</tbody>
+</table></div>
