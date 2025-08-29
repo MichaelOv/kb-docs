@@ -2,7 +2,7 @@
 title: Profiles in the CMDB-Explorer
 description: 
 published: true
-date: 2025-07-02T16:10:44.883Z
+date: 2025-08-29T08:39:05.238Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-02T16:10:42.605Z

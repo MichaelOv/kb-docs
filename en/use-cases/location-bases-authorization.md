@@ -2,7 +2,7 @@
 title: location-bases-authorization
 description: 
 published: true
-date: 2025-07-02T15:58:35.000Z
+date: 2025-08-29T08:28:04.238Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-02T15:58:33.028Z

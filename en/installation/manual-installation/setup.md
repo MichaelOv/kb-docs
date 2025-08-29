@@ -2,7 +2,7 @@
 title: i-doit Setup
 description: Setup
 published: true
-date: 2025-07-02T16:14:16.991Z
+date: 2025-07-03T09:09:38.204Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-02T16:14:14.644Z

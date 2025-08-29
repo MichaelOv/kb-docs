@@ -2,7 +2,7 @@
 title: console
 description: cobject
 published: true
-date: 2025-07-02T16:30:20.237Z
+date: 2025-07-03T09:23:00.360Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-02T16:30:17.227Z

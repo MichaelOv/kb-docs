@@ -2,7 +2,7 @@
 title: Namespace cmdb.impact
 description: cmdb.impact
 published: true
-date: 2025-07-02T16:29:24.683Z
+date: 2025-07-03T09:22:17.901Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-02T16:29:21.769Z

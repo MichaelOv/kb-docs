@@ -2,7 +2,7 @@
 title: loginventory
 description: 
 published: true
-date: 2025-07-02T15:54:06.621Z
+date: 2025-08-29T08:23:57.253Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-02T15:54:04.309Z

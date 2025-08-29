@@ -2,7 +2,7 @@
 title: isms
 description: 
 published: true
-date: 2025-07-02T15:55:39.181Z
+date: 2025-08-29T08:25:21.190Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-02T15:55:36.995Z

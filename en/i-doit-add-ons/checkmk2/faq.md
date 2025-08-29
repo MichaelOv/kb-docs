@@ -2,7 +2,7 @@
 title: faq
 description: 
 published: true
-date: 2025-07-02T16:11:12.608Z
+date: 2025-08-29T08:39:32.344Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-02T16:11:10.301Z

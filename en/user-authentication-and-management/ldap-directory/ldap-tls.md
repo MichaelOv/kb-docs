@@ -2,7 +2,7 @@
 title: LDAPS Debian configuration
 description: Guide for configuring an LDAPS connection with i-doit for debian
 published: true
-date: 2025-07-02T16:17:15.206Z
+date: 2025-07-03T09:12:09.384Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-02T16:17:13.004Z

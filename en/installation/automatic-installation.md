@@ -2,7 +2,7 @@
 title: automatic-installation
 description: 
 published: true
-date: 2025-07-02T15:56:13.466Z
+date: 2025-08-29T08:25:52.305Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-02T15:56:11.230Z

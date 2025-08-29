@@ -2,7 +2,7 @@
 title: Upgrade from i-doit open to i-doit
 description: Upgrade from i-doit open to i-doit
 published: true
-date: 2025-07-02T15:57:57.241Z
+date: 2025-08-29T08:27:28.388Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-02T15:57:54.923Z

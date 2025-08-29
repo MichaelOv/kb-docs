@@ -2,7 +2,7 @@
 title: check-list-for-your-it-documentation
 description: 
 published: true
-date: 2025-07-02T15:56:25.938Z
+date: 2025-08-29T08:26:04.349Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-02T15:56:23.543Z

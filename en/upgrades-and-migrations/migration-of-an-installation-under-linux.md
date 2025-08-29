@@ -2,7 +2,7 @@
 title: Migration of an Installation under GNU/Linux
 description: Migration of an Installation under GNU/Linux
 published: true
-date: 2025-07-02T15:57:41.850Z
+date: 2025-08-29T08:27:14.213Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-02T15:57:38.716Z

@@ -2,7 +2,7 @@
 title: Forms
 description: Forms installation
 published: true
-date: 2025-07-02T16:12:34.850Z
+date: 2025-07-03T09:08:26.798Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-02T16:12:32.483Z

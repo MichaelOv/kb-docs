@@ -2,7 +2,7 @@
 title: Example of CSV import - Licenses
 description: Example of CSV import - Licenses
 published: true
-date: 2025-07-02T16:10:16.149Z
+date: 2025-08-29T08:38:39.297Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-02T16:10:14.006Z

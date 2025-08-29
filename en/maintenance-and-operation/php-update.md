@@ -2,7 +2,7 @@
 title: Updating PHP Debian/Ubuntu
 description: Things to keep in mind when updating PHP
 published: true
-date: 2025-07-02T15:56:46.776Z
+date: 2025-08-29T08:26:23.522Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-02T15:56:44.407Z

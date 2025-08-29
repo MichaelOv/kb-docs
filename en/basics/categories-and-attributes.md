@@ -2,7 +2,7 @@
 title: Categories and attributes
 description: Categories and attributes
 published: true
-date: 2025-07-02T15:53:04.203Z
+date: 2025-08-29T08:22:57.177Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-02T15:53:01.139Z

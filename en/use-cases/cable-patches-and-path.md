@@ -2,7 +2,7 @@
 title: cable-patches-and-path
 description: 
 published: true
-date: 2025-07-02T15:58:09.165Z
+date: 2025-08-29T08:27:39.436Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-02T15:58:06.706Z

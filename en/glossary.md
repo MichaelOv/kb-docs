@@ -2,7 +2,7 @@
 title: glossary
 description: 
 published: true
-date: 2025-07-02T15:52:10.719Z
+date: 2025-08-29T08:22:08.419Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-02T15:52:08.349Z

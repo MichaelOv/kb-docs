@@ -2,7 +2,7 @@
 title: System settings
 description: System settings
 published: true
-date: 2025-07-02T16:14:20.352Z
+date: 2025-07-03T09:09:40.559Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-02T16:14:18.071Z

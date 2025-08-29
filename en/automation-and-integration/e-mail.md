@@ -2,7 +2,7 @@
 title: SMTP configuration (e-mail)
 description: SMTP configuration  (e-mail)
 published: true
-date: 2025-07-02T15:52:43.964Z
+date: 2025-08-29T08:22:37.286Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-02T15:52:41.994Z

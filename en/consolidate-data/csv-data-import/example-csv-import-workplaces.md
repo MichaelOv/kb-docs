@@ -2,7 +2,7 @@
 title: example-csv-import-workplaces
 description: 
 published: true
-date: 2025-07-02T16:10:19.334Z
+date: 2025-08-29T08:38:42.297Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-02T16:10:17.241Z

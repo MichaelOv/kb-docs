@@ -2,7 +2,7 @@
 title: controller
 description: 
 published: true
-date: 2025-07-02T15:52:21.794Z
+date: 2025-08-29T08:22:15.471Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-02T15:52:18.315Z

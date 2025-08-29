@@ -2,7 +2,7 @@
 title: user-right-management-via-roles
 description: 
 published: true
-date: 2025-07-02T16:10:41.525Z
+date: 2025-08-29T08:39:02.435Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-02T16:10:39.287Z

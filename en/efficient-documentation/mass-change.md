@@ -2,7 +2,7 @@
 title: mass-change
 description: 
 published: true
-date: 2025-07-02T15:54:26.838Z
+date: 2025-08-29T08:24:15.289Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-02T15:54:24.638Z

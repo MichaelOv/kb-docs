@@ -2,7 +2,7 @@
 title: automated-contract-term-extension
 description: 
 published: true
-date: 2025-07-02T15:58:05.706Z
+date: 2025-08-29T08:27:35.937Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-02T15:58:02.767Z

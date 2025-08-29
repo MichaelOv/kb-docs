@@ -2,7 +2,7 @@
 title: mapping-of-customer-sites
 description: 
 published: true
-date: 2025-07-02T15:58:45.156Z
+date: 2025-08-29T08:28:13.275Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-02T15:58:42.793Z

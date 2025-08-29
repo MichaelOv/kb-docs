@@ -2,7 +2,7 @@
 title: JDisc Discovery
 description: Configuration and usage of JDisc Discovery with i-doit
 published: true
-date: 2025-07-02T16:10:30.222Z
+date: 2025-08-29T08:38:51.557Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-02T16:10:27.651Z

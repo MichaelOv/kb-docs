@@ -1,3 +1,13 @@
+---
+title: glossary-en
+description: 
+published: true
+date: 2025-07-03T08:45:13.117Z
+tags: 
+editor: markdown
+dateCreated: 2025-07-03T08:45:09.752Z
+---
+
 *[HTML]: Hyper Text Markup Language.
 *[W3C]: World Wide Web Consortium.
 *[Attribute]: An attribute is a documented value to an object. Attributes of the same kind are summarized in categories. Example: in the "General" category the CMDB status.

@@ -2,7 +2,7 @@
 title: Object Relations
 description: Vordefinierte Objekttypen
 published: true
-date: 2025-07-02T15:53:39.050Z
+date: 2025-08-29T08:23:30.411Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-02T15:53:36.979Z

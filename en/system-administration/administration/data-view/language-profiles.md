@@ -2,7 +2,7 @@
 title: language-profiles
 description: 
 published: true
-date: 2025-07-02T16:31:28.886Z
+date: 2025-07-03T09:23:50.112Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-02T16:31:26.710Z

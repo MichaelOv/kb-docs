@@ -2,7 +2,7 @@
 title: Object types
 description: Default Object types
 published: true
-date: 2025-07-02T15:53:41.989Z
+date: 2025-08-29T08:23:33.741Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-02T15:53:40.079Z

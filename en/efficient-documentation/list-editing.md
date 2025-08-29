@@ -2,7 +2,7 @@
 title: list-editing
 description: 
 published: true
-date: 2025-07-02T15:54:23.518Z
+date: 2025-08-29T08:24:12.290Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-02T15:54:21.154Z

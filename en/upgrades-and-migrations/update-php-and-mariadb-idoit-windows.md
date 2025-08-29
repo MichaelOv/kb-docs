@@ -2,7 +2,7 @@
 title: Update PHP and MariaDB for i-doit Windows
 description: Instructions for updating PHP and MariaDB for i-doit Windows installations
 published: true
-date: 2025-07-02T15:57:53.944Z
+date: 2025-08-29T08:27:25.314Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-02T15:57:51.631Z

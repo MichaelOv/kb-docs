@@ -2,7 +2,7 @@
 title: match-objects-from-i-doit-with-hosts-from-checkmk
 description: 
 published: true
-date: 2025-07-02T16:11:36.862Z
+date: 2025-08-29T08:39:55.381Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-02T16:11:34.714Z

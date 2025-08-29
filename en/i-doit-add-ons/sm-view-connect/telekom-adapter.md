@@ -2,7 +2,7 @@
 title: SHD SM-VIEW Connect - Telekom-Adapter
 description: SHD SM-VIEW Connect - Telekom-Adapter
 published: true
-date: 2025-07-02T16:13:26.002Z
+date: 2025-07-03T09:09:01.323Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-02T16:13:23.791Z

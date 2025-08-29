@@ -2,7 +2,7 @@
 title: Hotfixes
 description: Hotfixes for the most recent i-doit version
 published: true
-date: 2025-07-02T16:16:07.719Z
+date: 2025-07-03T09:11:20.857Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-02T16:16:05.474Z

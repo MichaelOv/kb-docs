@@ -2,7 +2,7 @@
 title: custom-translation
 description: 
 published: true
-date: 2025-07-02T15:58:16.243Z
+date: 2025-08-29T08:27:46.278Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-02T15:58:13.946Z

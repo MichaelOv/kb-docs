@@ -2,7 +2,7 @@
 title: example-csv-import-creating-locations
 description: 
 published: true
-date: 2025-07-02T16:10:12.870Z
+date: 2025-08-29T08:38:36.300Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-02T16:10:10.574Z

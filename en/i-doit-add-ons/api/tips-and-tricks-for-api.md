@@ -2,7 +2,7 @@
 title: tips-and-tricks-for-api
 description: 
 published: true
-date: 2025-07-02T16:11:05.208Z
+date: 2025-08-29T08:39:25.408Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-02T16:11:02.882Z

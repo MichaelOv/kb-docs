@@ -2,7 +2,7 @@
 title: Configuration of the Object list view
 description: 
 published: true
-date: 2025-07-02T16:09:58.731Z
+date: 2025-08-29T08:38:23.169Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-02T16:09:55.642Z

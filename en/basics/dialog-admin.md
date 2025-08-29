@@ -2,7 +2,7 @@
 title: dialog-admin
 description: 
 published: true
-date: 2025-07-02T15:53:21.840Z
+date: 2025-08-29T08:23:13.964Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-02T15:53:18.802Z

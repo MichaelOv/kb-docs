@@ -2,7 +2,7 @@
 title: events
 description: 
 published: true
-date: 2025-07-02T16:30:56.676Z
+date: 2025-07-03T09:23:27.192Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-02T16:30:54.555Z

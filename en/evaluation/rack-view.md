@@ -2,7 +2,7 @@
 title: rack-view
 description: 
 published: true
-date: 2025-07-02T15:54:50.780Z
+date: 2025-08-29T08:24:37.195Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-02T15:54:47.647Z

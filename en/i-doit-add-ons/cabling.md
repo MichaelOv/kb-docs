@@ -2,7 +2,7 @@
 title: Cabling view
 description: Cabling view
 published: true
-date: 2025-07-02T15:55:11.102Z
+date: 2025-08-29T08:24:56.233Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-02T15:55:08.818Z

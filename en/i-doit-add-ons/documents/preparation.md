@@ -2,7 +2,7 @@
 title: Preparation
 description: prepare documents
 published: true
-date: 2025-07-02T16:12:20.254Z
+date: 2025-07-03T09:08:16.363Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-02T16:12:18.041Z

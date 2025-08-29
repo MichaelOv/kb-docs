@@ -2,7 +2,7 @@
 title: Console
 description: Console
 published: true
-date: 2025-07-02T16:28:37.718Z
+date: 2025-07-03T09:20:28.630Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-02T16:28:34.728Z

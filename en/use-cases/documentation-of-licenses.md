@@ -2,7 +2,7 @@
 title: Documentation of licenses
 description: Documentation of licenses
 published: true
-date: 2025-07-02T15:58:22.711Z
+date: 2025-08-29T08:27:52.282Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-02T15:58:20.458Z

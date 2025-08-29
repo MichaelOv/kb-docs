@@ -2,7 +2,7 @@
 title: example-csv-import-applications
 description: 
 published: true
-date: 2025-07-02T16:10:09.501Z
+date: 2025-08-29T08:38:33.353Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-02T16:10:07.458Z

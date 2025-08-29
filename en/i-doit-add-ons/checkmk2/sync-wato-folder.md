@@ -2,7 +2,7 @@
 title: sync-wato-folder
 description: 
 published: true
-date: 2025-07-02T16:11:59.752Z
+date: 2025-07-03T09:08:01.698Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-02T16:11:57.590Z

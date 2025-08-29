@@ -2,7 +2,7 @@
 title: Document templates
 description: Document templates
 published: true
-date: 2025-07-02T16:12:09.910Z
+date: 2025-07-03T09:08:08.707Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-02T16:12:07.515Z

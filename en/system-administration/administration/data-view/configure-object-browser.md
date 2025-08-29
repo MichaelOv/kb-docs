@@ -2,7 +2,7 @@
 title: configure-object-browser
 description: 
 published: true
-date: 2025-07-02T16:31:22.692Z
+date: 2025-07-03T09:23:45.291Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-02T16:31:20.449Z

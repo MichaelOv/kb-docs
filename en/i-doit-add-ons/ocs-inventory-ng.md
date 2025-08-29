@@ -2,7 +2,7 @@
 title: ocs-inventory-ng
 description: 
 published: true
-date: 2025-07-02T15:55:50.054Z
+date: 2025-08-29T08:25:30.912Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-02T15:55:47.094Z

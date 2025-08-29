@@ -2,7 +2,7 @@
 title: assignment-of-categories-to-object-types
 description: 
 published: true
-date: 2025-07-02T15:52:55.806Z
+date: 2025-08-29T08:22:49.366Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-02T15:52:53.528Z

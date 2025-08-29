@@ -2,7 +2,7 @@
 title: determine-the-author
 description: 
 published: true
-date: 2025-07-02T16:12:59.825Z
+date: 2025-07-03T09:08:43.641Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-02T16:12:57.540Z

@@ -2,7 +2,7 @@
 title: actions-in-object-lists
 description: 
 published: true
-date: 2025-07-02T16:09:51.075Z
+date: 2025-08-29T08:38:15.951Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-02T16:09:47.924Z

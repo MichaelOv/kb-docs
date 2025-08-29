@@ -2,7 +2,7 @@
 title: cmdb-right-management
 description: 
 published: true
-date: 2025-07-02T16:10:34.183Z
+date: 2025-08-29T08:38:55.175Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-02T16:10:31.083Z

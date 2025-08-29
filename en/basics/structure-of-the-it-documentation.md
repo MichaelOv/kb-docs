@@ -2,7 +2,7 @@
 title: structure-of-the-it-documentation
 description: 
 published: true
-date: 2025-07-02T15:53:44.992Z
+date: 2025-08-29T08:23:37.495Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-02T15:53:43.084Z

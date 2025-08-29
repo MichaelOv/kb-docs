@@ -2,7 +2,7 @@
 title: zammad
 description: 
 published: true
-date: 2025-07-02T16:09:46.815Z
+date: 2025-08-29T08:38:11.893Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-02T16:09:44.023Z

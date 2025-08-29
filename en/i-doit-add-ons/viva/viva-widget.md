@@ -2,7 +2,7 @@
 title: viva-widget
 description: 
 published: true
-date: 2025-07-02T16:13:59.370Z
+date: 2025-07-03T09:09:25.411Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-02T16:13:57.286Z

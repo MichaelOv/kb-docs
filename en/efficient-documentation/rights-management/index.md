@@ -2,7 +2,7 @@
 title: Rights Management
 description: Rights Management
 published: true
-date: 2025-07-02T16:10:38.260Z
+date: 2025-08-29T08:38:59.137Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-02T16:10:35.281Z

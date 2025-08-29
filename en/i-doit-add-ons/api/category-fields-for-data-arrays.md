@@ -2,7 +2,7 @@
 title: category-fields-for-data-arrays
 description: 
 published: true
-date: 2025-07-02T16:10:51.976Z
+date: 2025-08-29T08:39:12.797Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-02T16:10:45.782Z

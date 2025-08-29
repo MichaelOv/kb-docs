@@ -2,7 +2,7 @@
 title: Documents
 description: creating documents
 published: true
-date: 2025-07-02T16:12:13.600Z
+date: 2025-07-03T09:08:11.421Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-02T16:12:11.053Z

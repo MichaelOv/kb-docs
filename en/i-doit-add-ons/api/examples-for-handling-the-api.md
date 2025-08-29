@@ -2,7 +2,7 @@
 title: examples-for-handling-the-api
 description: 
 published: true
-date: 2025-07-02T16:10:57.963Z
+date: 2025-08-29T08:39:18.913Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-02T16:10:53.141Z

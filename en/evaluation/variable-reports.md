@@ -2,7 +2,7 @@
 title: Variable report
 description: Variable report
 published: true
-date: 2025-07-02T15:54:57.938Z
+date: 2025-08-29T08:24:44.377Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-02T15:54:55.749Z

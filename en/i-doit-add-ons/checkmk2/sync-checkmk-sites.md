@@ -2,7 +2,7 @@
 title: sync-checkmk-sites
 description: 
 published: true
-date: 2025-07-02T16:11:49.880Z
+date: 2025-08-29T08:40:07.236Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-02T16:11:47.628Z

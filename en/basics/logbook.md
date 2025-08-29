@@ -2,7 +2,7 @@
 title: logbook
 description: 
 published: true
-date: 2025-07-02T15:53:35.884Z
+date: 2025-08-29T08:23:27.350Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-02T15:53:33.498Z

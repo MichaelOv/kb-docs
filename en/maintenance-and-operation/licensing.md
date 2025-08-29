@@ -2,7 +2,7 @@
 title: Licensing
 description: i-doit licensing
 published: true
-date: 2025-07-02T15:56:43.363Z
+date: 2025-08-29T08:26:20.419Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-02T15:56:40.869Z

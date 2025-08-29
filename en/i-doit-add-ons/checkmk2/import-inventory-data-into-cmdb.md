@@ -2,7 +2,7 @@
 title: import-inventory-data-into-cmdb
 description: 
 published: true
-date: 2025-07-02T16:11:26.560Z
+date: 2025-08-29T08:39:45.394Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-02T16:11:24.432Z

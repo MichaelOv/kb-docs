@@ -2,7 +2,7 @@
 title: Migration from Windows to Linux
 description: Migration from Windows to Linux
 published: true
-date: 2025-07-02T15:57:37.904Z
+date: 2025-08-29T08:27:10.299Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-02T15:57:34.774Z

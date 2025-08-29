@@ -2,7 +2,7 @@
 title: read-information-from-i-doit-and-checkmk
 description: 
 published: true
-date: 2025-07-02T16:11:40.171Z
+date: 2025-08-29T08:39:58.295Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-02T16:11:37.981Z

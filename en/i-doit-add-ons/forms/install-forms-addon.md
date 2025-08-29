@@ -2,7 +2,7 @@
 title: Installing the Forms add-on
 description: Installing the Forms add-on
 published: true
-date: 2025-07-02T16:12:38.467Z
+date: 2025-07-03T09:08:29.400Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-02T16:12:35.973Z

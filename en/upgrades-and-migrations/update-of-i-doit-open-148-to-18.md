@@ -2,7 +2,7 @@
 title: Update of i-doit open 1.4.8 to 1.8
 description: Update of i-doit open 1.4.8 to 1.8
 published: true
-date: 2025-07-02T15:57:50.622Z
+date: 2025-08-29T08:27:21.936Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-02T15:57:47.730Z

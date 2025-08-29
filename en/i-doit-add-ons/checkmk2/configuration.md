@@ -2,7 +2,7 @@
 title: configuration
 description: 
 published: true
-date: 2025-07-02T16:11:09.169Z
+date: 2025-08-29T08:39:28.849Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-02T16:11:06.312Z

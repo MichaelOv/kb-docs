@@ -2,7 +2,7 @@
 title: localization
 description: 
 published: true
-date: 2025-07-02T15:57:15.611Z
+date: 2025-08-29T08:26:49.004Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-02T15:57:12.086Z

@@ -2,7 +2,7 @@
 title: JDisc Discovery
 description: JDisc Discovery configuration
 published: true
-date: 2025-07-02T15:52:29.327Z
+date: 2025-08-29T08:22:22.747Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-02T15:52:27.039Z

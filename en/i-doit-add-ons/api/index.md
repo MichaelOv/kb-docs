@@ -2,7 +2,7 @@
 title: API (JSON-RPC)
 description: API (JSON-RPC)
 published: true
-date: 2025-07-02T16:11:01.779Z
+date: 2025-08-29T08:39:22.698Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-02T16:10:59.082Z

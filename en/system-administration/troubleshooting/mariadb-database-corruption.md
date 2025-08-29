@@ -2,7 +2,7 @@
 title: MariaDB database corruption errors
 description: MariaDB database corruption errors and how to solve them
 published: true
-date: 2025-07-02T16:16:35.262Z
+date: 2025-07-03T09:11:41.157Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-02T16:16:33.038Z

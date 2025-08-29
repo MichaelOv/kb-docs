@@ -2,7 +2,7 @@
 title: dashboard-and-widgets
 description: 
 published: true
-date: 2025-07-02T15:53:17.813Z
+date: 2025-08-29T08:23:10.089Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-02T15:53:14.881Z

@@ -2,7 +2,7 @@
 title: Nagios
 description: Nagios
 published: true
-date: 2025-07-02T15:55:46.024Z
+date: 2025-08-29T08:25:27.525Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-02T15:55:43.639Z

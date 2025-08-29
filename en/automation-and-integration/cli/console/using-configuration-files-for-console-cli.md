@@ -2,7 +2,7 @@
 title: Configuration files for console commands
 description: Using Configuration files for Console Commands
 published: true
-date: 2025-07-02T16:28:41.336Z
+date: 2025-07-03T09:20:31.038Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-02T16:28:38.835Z

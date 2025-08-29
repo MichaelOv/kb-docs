@@ -2,7 +2,7 @@
 title: Two-factor Authentication (2FA)
 description: Two-factor authentication options for i-doit
 published: true
-date: 2025-07-02T16:16:53.098Z
+date: 2025-07-03T09:11:54.713Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-02T16:16:51.009Z
