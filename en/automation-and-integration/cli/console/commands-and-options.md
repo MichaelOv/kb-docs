@@ -2,7 +2,7 @@
 title: Commands and options
 description: Commands and options
 published: true
-date: 2025-07-03T09:20:25.501Z
+date: 2025-08-29T08:55:25.026Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-02T16:28:29.709Z

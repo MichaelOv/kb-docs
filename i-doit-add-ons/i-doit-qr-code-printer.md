@@ -2,7 +2,7 @@
 title: i-doit-qr-code-printer
 description: 
 published: true
-date: 2025-07-03T08:51:09.620Z
+date: 2025-08-29T09:12:23.429Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-03T08:51:07.102Z

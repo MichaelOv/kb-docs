@@ -2,7 +2,7 @@
 title: mandantenfaehigkeit
 description: 
 published: true
-date: 2025-07-03T08:46:25.520Z
+date: 2025-08-29T09:08:17.394Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-03T08:46:23.191Z

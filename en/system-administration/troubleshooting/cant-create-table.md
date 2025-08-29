@@ -2,7 +2,7 @@
 title: cant-create-table
 description: 
 published: true
-date: 2025-07-03T09:11:24.024Z
+date: 2025-08-29T08:44:14.206Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-02T16:16:08.874Z

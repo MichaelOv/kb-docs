@@ -2,7 +2,7 @@
 title: preparation-of-the-viva-installation
 description: 
 published: true
-date: 2025-07-03T09:09:11.513Z
+date: 2025-08-29T08:41:49.070Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-02T16:13:36.858Z

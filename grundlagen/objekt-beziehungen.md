@@ -2,7 +2,7 @@
 title: Objekt Beziehungen
 description: Objekt Beziehungen
 published: true
-date: 2025-07-03T08:50:13.792Z
+date: 2025-08-29T09:11:37.431Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-03T08:50:11.484Z

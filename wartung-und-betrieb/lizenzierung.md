@@ -2,7 +2,7 @@
 title: Lizenzierung
 description: Lizenz aktivieren
 published: true
-date: 2025-07-03T08:53:00.593Z
+date: 2025-08-29T09:14:00.517Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-03T08:52:58.173Z

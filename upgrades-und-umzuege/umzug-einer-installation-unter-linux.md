@@ -2,7 +2,7 @@
 title: Umzug einer Installation unter GNU/Linux
 description: Umzug einer Installation unter GNU/Linux
 published: true
-date: 2025-07-03T08:52:14.369Z
+date: 2025-08-29T09:13:18.245Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-03T08:52:11.294Z

@@ -2,7 +2,7 @@
 title: Debian 11 GNU/Linux
 description: i-doit installation auf Debian 11
 published: true
-date: 2025-07-03T08:45:47.744Z
+date: 2025-08-29T09:07:45.259Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-03T08:45:44.740Z

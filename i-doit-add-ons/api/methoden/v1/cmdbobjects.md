@@ -2,7 +2,7 @@
 title: cmdb.object
 description: cmdb.object
 published: true
-date: 2025-07-03T09:32:17.101Z
+date: 2025-08-29T09:05:36.267Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-02T16:40:03.854Z

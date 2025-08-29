@@ -2,7 +2,7 @@
 title: h-inventory
 description: 
 published: true
-date: 2025-07-03T09:23:52.096Z
+date: 2025-08-29T08:58:18.269Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-02T16:31:30.098Z

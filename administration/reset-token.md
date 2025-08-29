@@ -2,7 +2,7 @@
 title: Den Lizenz Token finden oder zurücksetzen
 description: Wo finde ich meinen Lizenztoken?
 published: true
-date: 2025-07-03T08:46:35.993Z
+date: 2025-08-29T09:08:26.450Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-03T08:46:33.790Z

@@ -2,7 +2,7 @@
 title: geo-koordinaten
 description: 
 published: true
-date: 2025-07-03T08:47:09.968Z
+date: 2025-08-29T09:08:56.253Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-03T08:47:07.629Z

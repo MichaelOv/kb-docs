@@ -2,7 +2,7 @@
 title: iso27000-mit-i-doit
 description: 
 published: true
-date: 2025-07-03T08:47:21.353Z
+date: 2025-08-29T09:09:07.106Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-03T08:47:18.568Z

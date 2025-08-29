@@ -2,7 +2,7 @@
 title: objekt-identifizieren-bei-importen
 description: 
 published: true
-date: 2025-07-03T08:48:44.203Z
+date: 2025-08-29T09:10:19.453Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-03T08:48:41.789Z

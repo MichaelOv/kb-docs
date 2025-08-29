@@ -2,7 +2,7 @@
 title: object-lists
 description: 
 published: true
-date: 2025-07-03T09:33:39.713Z
+date: 2025-08-29T09:07:18.369Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-02T16:41:52.390Z

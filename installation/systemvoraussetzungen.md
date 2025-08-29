@@ -2,7 +2,7 @@
 title: systemvoraussetzungen
 description: 
 published: true
-date: 2025-07-03T08:52:02.950Z
+date: 2025-08-29T09:13:07.921Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-03T08:51:58.332Z

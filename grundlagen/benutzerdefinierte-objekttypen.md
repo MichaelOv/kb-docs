@@ -2,7 +2,7 @@
 title: benutzerdefinierte-objekttypen
 description: 
 published: true
-date: 2025-07-03T08:49:37.153Z
+date: 2025-08-29T09:11:05.410Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-03T08:49:34.803Z

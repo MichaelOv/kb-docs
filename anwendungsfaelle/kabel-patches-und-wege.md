@@ -2,7 +2,7 @@
 title: kabel-patches-und-wege
 description: 
 published: true
-date: 2025-07-03T08:47:25.105Z
+date: 2025-08-29T09:09:10.463Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-03T08:47:22.602Z

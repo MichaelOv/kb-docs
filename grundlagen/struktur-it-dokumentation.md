@@ -2,7 +2,7 @@
 title: struktur-it-dokumentation
 description: 
 published: true
-date: 2025-07-03T08:50:21.134Z
+date: 2025-08-29T09:11:43.486Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-03T08:50:18.876Z

@@ -2,7 +2,7 @@
 title: checkliste-fuer-die-it-dokumentation
 description: 
 published: true
-date: 2025-07-03T08:49:18.563Z
+date: 2025-08-29T09:10:50.480Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-03T08:49:16.356Z

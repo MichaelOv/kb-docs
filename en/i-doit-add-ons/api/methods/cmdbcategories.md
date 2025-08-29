@@ -2,7 +2,7 @@
 title: cmdb.categories
 description: cmdb.categories
 published: true
-date: 2025-07-03T09:21:52.521Z
+date: 2025-08-29T08:55:44.501Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-02T16:28:50.133Z

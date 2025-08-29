@@ -2,7 +2,7 @@
 title: Report Manager
 description: Report Manager
 published: true
-date: 2025-07-03T08:48:07.172Z
+date: 2025-08-29T09:09:47.311Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-03T08:48:04.612Z

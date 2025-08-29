@@ -2,7 +2,7 @@
 title: SHD SM-VIEW Connect
 description: SHD SM-VIEW Connect
 published: true
-date: 2025-07-03T09:08:59.449Z
+date: 2025-08-29T08:41:32.670Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-02T16:13:20.556Z

@@ -2,7 +2,7 @@
 title: external
 description: cmdb.external endpoint
 published: true
-date: 2025-07-03T09:32:58.938Z
+date: 2025-08-29T09:06:25.227Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-02T16:40:53.288Z

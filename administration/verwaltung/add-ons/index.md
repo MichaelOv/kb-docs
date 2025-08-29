@@ -2,7 +2,7 @@
 title: index
 description: 
 published: true
-date: 2025-07-03T09:15:00.437Z
+date: 2025-08-29T08:48:21.320Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-02T16:20:40.281Z

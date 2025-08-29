@@ -2,7 +2,7 @@
 title: Update Anleitung von i-doit 1.7.4 zu 34
 description: i-doit update guide
 published: true
-date: 2025-07-03T08:52:28.483Z
+date: 2025-08-29T09:13:30.974Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-03T08:52:24.711Z

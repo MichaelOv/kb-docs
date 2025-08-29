@@ -2,7 +2,7 @@
 title: attributvalidierung-und-pflichtfelder
 description: 
 published: true
-date: 2025-07-03T08:48:48.299Z
+date: 2025-08-29T09:10:23.067Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-03T08:48:45.479Z

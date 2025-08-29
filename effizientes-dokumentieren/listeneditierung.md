@@ -2,7 +2,7 @@
 title: listeneditierung
 description: 
 published: true
-date: 2025-07-03T08:48:55.627Z
+date: 2025-08-29T09:10:29.351Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-03T08:48:53.365Z

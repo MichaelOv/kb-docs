@@ -2,7 +2,7 @@
 title: export-configuration
 description: 
 published: true
-date: 2025-07-03T09:33:27.948Z
+date: 2025-08-29T09:07:03.370Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-02T16:41:36.468Z

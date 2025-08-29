@@ -2,7 +2,7 @@
 title: jdisc-konfiguration
 description: 
 published: true
-date: 2025-07-03T09:30:56.979Z
+date: 2025-08-29T09:03:53.198Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-02T16:38:16.503Z

@@ -2,7 +2,7 @@
 title: benutzerdefinierte-kategorien
 description: 
 published: true
-date: 2025-07-03T09:15:25.425Z
+date: 2025-08-29T08:48:54.221Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-02T16:21:16.272Z

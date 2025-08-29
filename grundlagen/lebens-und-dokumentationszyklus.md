@@ -2,7 +2,7 @@
 title: lebens-und-dokumentationszyklus
 description: 
 published: true
-date: 2025-07-03T08:50:06.422Z
+date: 2025-08-29T09:11:31.423Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-03T08:50:04.246Z

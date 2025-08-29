@@ -2,7 +2,7 @@
 title: Namespace cmdb.category
 description: Read, create or update one or more category entries for an object.
 published: true
-date: 2025-07-03T09:31:29.462Z
+date: 2025-08-29T09:04:34.129Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-02T16:38:59.363Z

@@ -2,7 +2,7 @@
 title: Templates
 description: Verwendung von Templates
 published: true
-date: 2025-07-03T08:49:14.920Z
+date: 2025-08-29T09:10:47.367Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-03T08:49:12.524Z

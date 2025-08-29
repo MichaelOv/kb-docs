@@ -2,7 +2,7 @@
 title: Befehl ausführen
 description: Flows Befehl ausführen
 published: true
-date: 2025-07-03T09:16:44.300Z
+date: 2025-08-29T08:50:41.637Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-02T16:23:12.721Z

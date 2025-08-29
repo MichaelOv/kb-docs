@@ -2,7 +2,7 @@
 title: google-openid
 description: 
 published: true
-date: 2025-07-03T09:16:29.449Z
+date: 2025-08-29T08:50:21.417Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-02T16:22:50.817Z

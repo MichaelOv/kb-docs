@@ -2,7 +2,7 @@
 title: changelog-24
 description: 
 published: true
-date: 2025-07-03T09:12:23.593Z
+date: 2025-08-29T08:45:33.590Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-02T16:17:33.295Z

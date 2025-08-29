@@ -2,7 +2,7 @@
 title: cronjobs-einrichten
 description: 
 published: true
-date: 2025-07-03T08:52:53.280Z
+date: 2025-08-29T09:13:53.954Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-03T08:52:49.952Z

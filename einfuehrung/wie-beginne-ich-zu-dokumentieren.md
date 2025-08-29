@@ -2,7 +2,7 @@
 title: wie-beginne-ich-zu-dokumentieren
 description: 
 published: true
-date: 2025-07-03T08:49:26.070Z
+date: 2025-08-29T09:10:56.354Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-03T08:49:23.532Z

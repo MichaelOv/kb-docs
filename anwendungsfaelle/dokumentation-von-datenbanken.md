@@ -2,7 +2,7 @@
 title: dokumentation-von-datenbanken
 description: 
 published: true
-date: 2025-07-03T08:46:58.564Z
+date: 2025-08-29T09:08:46.352Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-03T08:46:56.331Z

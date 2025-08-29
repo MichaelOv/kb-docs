@@ -2,7 +2,7 @@
 title: cmdb.workstation_components.read
 description: cmdb.workstation_components.read
 published: true
-date: 2025-07-03T09:32:29.782Z
+date: 2025-08-29T09:05:53.544Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-02T16:40:21.548Z

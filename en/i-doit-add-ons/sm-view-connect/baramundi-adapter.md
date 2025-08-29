@@ -2,7 +2,7 @@
 title: SHD SM-VIEW Connect - Baramundi-Adapter
 description: SHD SM-VIEW Connect - Baramundi-Adapter
 published: true
-date: 2025-07-03T09:08:57.072Z
+date: 2025-08-29T08:41:28.880Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-02T16:13:17.835Z

@@ -2,7 +2,7 @@
 title: jdisc-profile
 description: 
 published: true
-date: 2025-07-03T09:30:59.398Z
+date: 2025-08-29T09:03:56.217Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-02T16:38:19.965Z

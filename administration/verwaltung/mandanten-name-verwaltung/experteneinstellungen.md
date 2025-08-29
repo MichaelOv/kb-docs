@@ -2,7 +2,7 @@
 title: experteneinstellungen
 description: 
 published: true
-date: 2025-07-03T09:15:49.926Z
+date: 2025-08-29T08:49:28.583Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-02T16:21:52.531Z

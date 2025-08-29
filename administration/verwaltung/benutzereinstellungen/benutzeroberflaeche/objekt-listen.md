@@ -2,7 +2,7 @@
 title: objekt-listen
 description: 
 published: true
-date: 2025-07-03T09:30:52.827Z
+date: 2025-08-29T09:03:47.246Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-02T16:38:09.689Z

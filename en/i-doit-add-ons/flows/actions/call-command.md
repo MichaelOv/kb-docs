@@ -2,7 +2,7 @@
 title: Call command
 description: Flows call command
 published: true
-date: 2025-07-03T09:23:09.368Z
+date: 2025-08-29T08:57:22.575Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-02T16:30:29.816Z

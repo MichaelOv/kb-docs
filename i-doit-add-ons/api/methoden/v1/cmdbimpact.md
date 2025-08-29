@@ -2,7 +2,7 @@
 title: cmdb.impact
 description: cmdb.impact
 published: true
-date: 2025-07-03T09:31:50.597Z
+date: 2025-08-29T09:05:02.311Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-02T16:39:27.950Z

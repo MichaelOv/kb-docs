@@ -2,7 +2,7 @@
 title: cmdb.status
 description: cmdb.status
 published: true
-date: 2025-07-03T09:32:27.088Z
+date: 2025-08-29T09:05:48.753Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-02T16:40:16.938Z

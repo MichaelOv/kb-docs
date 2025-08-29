@@ -2,7 +2,7 @@
 title: CSV-Datenexport
 description: CSV Datenexport
 published: true
-date: 2025-07-03T08:48:33.478Z
+date: 2025-08-29T09:10:10.070Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-03T08:48:30.607Z

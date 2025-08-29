@@ -2,7 +2,7 @@
 title: cmdb.cabling
 description: cmdb.cabling
 published: true
-date: 2025-07-03T09:31:22.273Z
+date: 2025-08-29T09:04:25.316Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-02T16:38:50.884Z

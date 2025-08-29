@@ -2,7 +2,7 @@
 title: bearbeitungssperre
 description: 
 published: true
-date: 2025-07-03T09:15:02.734Z
+date: 2025-08-29T08:48:24.305Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-02T16:20:43.620Z

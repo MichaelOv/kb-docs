@@ -2,7 +2,7 @@
 title: datenstruktur-bearbeiten
 description: 
 published: true
-date: 2025-07-03T09:15:27.750Z
+date: 2025-08-29T08:48:57.511Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-02T16:21:19.722Z

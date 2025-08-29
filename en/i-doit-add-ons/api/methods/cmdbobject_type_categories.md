@@ -2,7 +2,7 @@
 title: Namespace cmdb.object_type_categories
 description: cmdb.object_type_categories
 published: true
-date: 2025-07-03T09:22:34.359Z
+date: 2025-08-29T08:56:38.517Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-02T16:29:43.279Z

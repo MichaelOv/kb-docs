@@ -2,7 +2,7 @@
 title: massenaenderung
 description: 
 published: true
-date: 2025-07-03T08:48:59.915Z
+date: 2025-08-29T09:10:33.087Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-03T08:48:56.880Z

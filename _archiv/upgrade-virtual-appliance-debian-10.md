@@ -2,7 +2,7 @@
 title: upgrade-virtual-appliance-debian-10
 description: 
 published: true
-date: 2025-07-03T08:46:03.655Z
+date: 2025-08-29T09:07:58.962Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-03T08:46:00.920Z

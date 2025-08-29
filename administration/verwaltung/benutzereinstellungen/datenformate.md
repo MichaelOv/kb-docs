@@ -2,7 +2,7 @@
 title: datenformate
 description: 
 published: true
-date: 2025-07-03T09:15:07.360Z
+date: 2025-08-29T08:48:30.277Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-02T16:20:50.123Z

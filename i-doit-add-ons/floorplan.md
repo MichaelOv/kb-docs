@@ -2,7 +2,7 @@
 title: Floorplan
 description: Floorplan Raumplan
 published: true
-date: 2025-07-03T08:50:58.151Z
+date: 2025-08-29T09:12:14.639Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-03T08:50:55.370Z

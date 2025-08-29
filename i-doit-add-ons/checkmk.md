@@ -2,7 +2,7 @@
 title: checkmk
 description: 
 published: true
-date: 2025-07-03T08:50:47.284Z
+date: 2025-08-29T09:12:05.250Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-03T08:50:44.110Z

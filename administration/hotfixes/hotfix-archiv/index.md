@@ -2,7 +2,7 @@
 title: Hotfix Archiv
 description: Hotfix Archiv für ältere i-doit Versionen
 published: true
-date: 2025-07-03T09:14:20.451Z
+date: 2025-08-29T08:47:30.292Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-02T16:19:44.720Z

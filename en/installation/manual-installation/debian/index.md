@@ -2,7 +2,7 @@
 title: Debian 12 GNU/Linux
 description: i-doit installation on Debian 12
 published: true
-date: 2025-07-03T09:23:12.497Z
+date: 2025-08-29T08:57:26.238Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-02T16:30:32.889Z

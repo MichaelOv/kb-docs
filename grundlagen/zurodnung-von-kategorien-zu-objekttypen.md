@@ -2,7 +2,7 @@
 title: zurodnung-von-kategorien-zu-objekttypen
 description: 
 published: true
-date: 2025-07-03T08:50:28.151Z
+date: 2025-08-29T09:11:49.342Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-03T08:50:26.168Z

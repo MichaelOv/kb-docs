@@ -2,7 +2,7 @@
 title: PHP aktualisieren Debian/Ubuntu
 description: Dinge die beachtet werden müssen wenn PHP aktualisiert wurde
 published: true
-date: 2025-07-03T08:53:04.546Z
+date: 2025-08-29T09:14:03.596Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-03T08:53:01.912Z

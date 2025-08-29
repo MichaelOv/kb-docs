@@ -2,7 +2,7 @@
 title: risk-analysis-according-to-it-grundschutz
 description: 
 published: true
-date: 2025-07-03T09:09:18.401Z
+date: 2025-08-29T08:41:58.222Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-02T16:13:47.603Z

@@ -2,7 +2,7 @@
 title: attributerweiterung
 description: 
 published: true
-date: 2025-07-03T09:31:01.898Z
+date: 2025-08-29T09:03:59.070Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-02T16:38:23.413Z

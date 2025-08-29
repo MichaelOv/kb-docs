@@ -2,7 +2,7 @@
 title: web-gui
 description: 
 published: true
-date: 2025-07-03T08:50:24.786Z
+date: 2025-08-29T09:11:46.312Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-03T08:50:22.444Z

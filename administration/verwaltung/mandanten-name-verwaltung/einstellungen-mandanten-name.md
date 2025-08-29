@@ -2,7 +2,7 @@
 title: Einstellungen für [Mandanten-Name]
 description: Einstellungen für [Mandanten-Name]
 published: true
-date: 2025-07-03T09:15:47.472Z
+date: 2025-08-29T08:49:24.719Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-02T16:21:48.827Z

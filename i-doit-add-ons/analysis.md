@@ -2,7 +2,7 @@
 title: analysis
 description: 
 published: true
-date: 2025-07-03T08:50:39.379Z
+date: 2025-08-29T09:11:58.496Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-03T08:50:36.965Z

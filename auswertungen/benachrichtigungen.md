@@ -2,7 +2,7 @@
 title: Benachrichtigungen
 description: Benachrichtigungen versenden
 published: true
-date: 2025-07-03T08:47:52.247Z
+date: 2025-08-29T09:09:33.598Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-03T08:47:49.982Z

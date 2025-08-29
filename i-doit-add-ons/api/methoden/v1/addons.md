@@ -2,7 +2,7 @@
 title: addons
 description: Here you find API methods from Add-ons
 published: true
-date: 2025-07-03T09:31:19.037Z
+date: 2025-08-29T09:04:21.587Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-02T16:38:46.399Z

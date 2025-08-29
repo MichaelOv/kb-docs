@@ -2,7 +2,7 @@
 title: idoit
 description: idoit
 published: true
-date: 2025-07-03T09:32:37.034Z
+date: 2025-08-29T09:06:02.143Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-02T16:40:30.263Z

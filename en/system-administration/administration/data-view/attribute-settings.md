@@ -2,7 +2,7 @@
 title: attribute-settings
 description: 
 published: true
-date: 2025-07-03T09:23:41.138Z
+date: 2025-08-29T08:58:03.374Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-02T16:31:13.727Z

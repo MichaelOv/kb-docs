@@ -2,7 +2,7 @@
 title: objektsperre
 description: 
 published: true
-date: 2025-07-03T08:49:07.269Z
+date: 2025-08-29T09:10:40.231Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-03T08:49:04.974Z

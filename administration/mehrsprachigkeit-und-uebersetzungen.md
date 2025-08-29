@@ -2,7 +2,7 @@
 title: mehrsprachigkeit-und-uebersetzungen
 description: 
 published: true
-date: 2025-07-03T08:46:29.246Z
+date: 2025-08-29T09:08:20.445Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-03T08:46:26.675Z

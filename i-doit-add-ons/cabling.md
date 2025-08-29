@@ -2,7 +2,7 @@
 title: Cabling
 description: Verkabelungsansicht
 published: true
-date: 2025-07-03T08:50:42.957Z
+date: 2025-08-29T09:12:01.388Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-03T08:50:40.714Z

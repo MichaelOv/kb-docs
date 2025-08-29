@@ -2,7 +2,7 @@
 title: Objekttypen
 description: Vordefinierte Objekttypen
 published: true
-date: 2025-07-03T08:50:17.661Z
+date: 2025-08-29T09:11:40.579Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-03T08:50:15.040Z

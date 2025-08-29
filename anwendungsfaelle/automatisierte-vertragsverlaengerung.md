@@ -2,7 +2,7 @@
 title: automatisierte-vertragsverlaengerung
 description: 
 published: true
-date: 2025-07-03T08:46:47.115Z
+date: 2025-08-29T09:08:35.893Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-03T08:46:44.099Z

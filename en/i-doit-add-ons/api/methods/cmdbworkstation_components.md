@@ -2,7 +2,7 @@
 title: Namespace cmdb.object
 description: cmdb.object
 published: true
-date: 2025-07-03T09:22:57.326Z
+date: 2025-08-29T08:57:07.586Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-02T16:30:12.851Z

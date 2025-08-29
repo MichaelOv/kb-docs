@@ -2,7 +2,7 @@
 title: Kundenportal
 description: Kundenportal
 published: true
-date: 2025-07-03T08:46:21.908Z
+date: 2025-08-29T09:08:14.278Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-03T08:46:19.567Z

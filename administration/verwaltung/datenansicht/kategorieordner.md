@@ -2,7 +2,7 @@
 title: kategorieordner
 description: 
 published: true
-date: 2025-07-03T09:15:18.669Z
+date: 2025-08-29T08:48:45.324Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-02T16:21:05.838Z

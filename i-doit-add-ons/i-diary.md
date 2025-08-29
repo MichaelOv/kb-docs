@@ -2,7 +2,7 @@
 title: i-diary
 description: 
 published: true
-date: 2025-07-03T08:51:05.691Z
+date: 2025-08-29T09:12:20.527Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-03T08:51:03.050Z

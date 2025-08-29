@@ -2,7 +2,7 @@
 title: qr-code
 description: 
 published: true
-date: 2025-07-03T09:24:17.727Z
+date: 2025-08-29T08:58:51.222Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-02T16:32:06.963Z

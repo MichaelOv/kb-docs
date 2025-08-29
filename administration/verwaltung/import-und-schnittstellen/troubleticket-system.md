@@ -2,7 +2,7 @@
 title: troubleticket-system
 description: 
 published: true
-date: 2025-07-03T09:15:42.539Z
+date: 2025-08-29T08:49:18.290Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-02T16:21:42.376Z

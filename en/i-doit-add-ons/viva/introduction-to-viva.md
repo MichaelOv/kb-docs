@@ -2,7 +2,7 @@
 title: introduction-to-viva
 description: 
 published: true
-date: 2025-07-03T09:09:06.188Z
+date: 2025-08-29T08:41:42.405Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-02T16:13:30.302Z

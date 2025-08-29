@@ -2,7 +2,7 @@
 title: cmdb.logbook
 description: cmdb.logbook
 published: true
-date: 2025-07-03T09:22:27.568Z
+date: 2025-08-29T08:56:28.695Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-02T16:29:34.121Z

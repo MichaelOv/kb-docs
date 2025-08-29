@@ -2,7 +2,7 @@
 title: sprachprofile
 description: 
 published: true
-date: 2025-07-03T09:15:23.241Z
+date: 2025-08-29T08:48:51.247Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-02T16:21:12.994Z

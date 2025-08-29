@@ -2,7 +2,7 @@
 title: Ubuntu 22.04 GNU/Linux
 description: i-doit installation auf Ubuntu 22.04
 published: true
-date: 2025-07-03T09:16:59.046Z
+date: 2025-08-29T08:51:00.318Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-02T16:23:34.723Z

@@ -2,7 +2,7 @@
 title: automatisierung-und-cronjobs
 description: 
 published: true
-date: 2025-07-03T08:48:14.290Z
+date: 2025-08-29T09:09:53.367Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-03T08:48:11.895Z

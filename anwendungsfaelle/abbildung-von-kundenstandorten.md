@@ -2,7 +2,7 @@
 title: abbildung-von-kundenstandorten
 description: 
 published: true
-date: 2025-07-03T08:46:39.362Z
+date: 2025-08-29T09:08:29.383Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-03T08:46:37.279Z

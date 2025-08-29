@@ -2,7 +2,7 @@
 title: user-permissions
 description: 
 published: true
-date: 2025-07-03T09:11:05.843Z
+date: 2025-08-29T08:43:59.246Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-02T16:15:54.054Z

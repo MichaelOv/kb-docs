@@ -2,7 +2,7 @@
 title: cmdb.object_type_groups
 description: cmdb.object_type_groups
 published: true
-date: 2025-07-03T09:22:37.537Z
+date: 2025-08-29T08:56:42.136Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-02T16:29:46.551Z

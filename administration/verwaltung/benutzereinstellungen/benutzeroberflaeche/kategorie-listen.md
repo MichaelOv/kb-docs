@@ -2,7 +2,7 @@
 title: kategorie-listen
 description: 
 published: true
-date: 2025-07-03T09:30:50.434Z
+date: 2025-08-29T09:03:44.257Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-02T16:38:06.308Z

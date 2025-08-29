@@ -2,7 +2,7 @@
 title: directories
 description: 
 published: true
-date: 2025-07-03T09:33:20.777Z
+date: 2025-08-29T09:06:54.218Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-02T16:41:26.535Z

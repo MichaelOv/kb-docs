@@ -2,7 +2,7 @@
 title: objekt-beziehungsarten
 description: 
 published: true
-date: 2025-07-03T09:16:07.557Z
+date: 2025-08-29T08:49:52.315Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-02T16:22:19.941Z

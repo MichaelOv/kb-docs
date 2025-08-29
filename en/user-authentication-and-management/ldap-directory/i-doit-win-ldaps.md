@@ -2,7 +2,7 @@
 title: LDAPS i-doit for Windows
 description: Guide for configuring an LDAPS connection with i-doit for Windows
 published: true
-date: 2025-07-03T09:12:01.907Z
+date: 2025-08-29T08:45:04.308Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-02T16:17:01.805Z

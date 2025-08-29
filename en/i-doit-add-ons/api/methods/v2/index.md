@@ -2,7 +2,7 @@
 title: API v2 endpoints
 description: API v2 endpoints
 published: true
-date: 2025-07-03T09:33:02.612Z
+date: 2025-08-29T09:06:30.019Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-02T16:40:58.046Z

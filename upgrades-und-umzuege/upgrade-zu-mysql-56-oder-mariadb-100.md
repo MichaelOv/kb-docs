@@ -2,7 +2,7 @@
 title: Upgrade zu MySQL 5.6 oder MariaDB 10.0
 description: Upgrade zu MySQL 5.6 oder MariaDB 10.0
 published: true
-date: 2025-07-03T08:52:45.017Z
+date: 2025-08-29T09:13:45.425Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-03T08:52:41.487Z

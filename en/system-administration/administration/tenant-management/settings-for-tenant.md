@@ -2,7 +2,7 @@
 title: Settings for [Tenant name]
 description: Settings for [Tenant name]
 published: true
-date: 2025-07-03T09:24:28.685Z
+date: 2025-08-29T08:59:04.816Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-02T16:32:21.579Z

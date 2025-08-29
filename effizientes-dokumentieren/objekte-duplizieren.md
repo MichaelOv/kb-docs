@@ -2,7 +2,7 @@
 title: objekte-duplizieren
 description: 
 published: true
-date: 2025-07-03T08:49:03.732Z
+date: 2025-08-29T09:10:36.942Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-03T08:49:01.246Z

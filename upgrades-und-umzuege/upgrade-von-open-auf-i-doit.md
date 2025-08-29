@@ -2,7 +2,7 @@
 title: Upgrade von i-doit open auf pro
 description: Upgrade von i-doit open auf pro
 published: true
-date: 2025-07-03T08:52:40.223Z
+date: 2025-08-29T09:13:41.411Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-03T08:52:37.847Z

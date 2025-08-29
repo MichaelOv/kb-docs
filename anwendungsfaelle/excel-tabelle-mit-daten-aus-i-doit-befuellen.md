@@ -2,7 +2,7 @@
 title: excel-tabelle-mit-daten-aus-i-doit-befuellen
 description: 
 published: true
-date: 2025-07-03T08:47:06.394Z
+date: 2025-08-29T09:08:53.111Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-03T08:47:03.472Z

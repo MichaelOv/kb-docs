@@ -2,7 +2,7 @@
 title: Umzug von Linux zu Windows
 description: Umzug von Linux zu Windows
 published: true
-date: 2025-07-03T08:52:18.940Z
+date: 2025-08-29T09:13:22.313Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-03T08:52:15.719Z
